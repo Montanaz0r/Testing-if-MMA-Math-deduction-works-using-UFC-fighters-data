@@ -1,0 +1,622 @@
+Fighter;Opponent;Result;Event;Event_date;Method;Referee;Round;Time
+Marc-Andre Barriault;Jun Yong Park;loss;UFC Fight Night 165 - Edgar vs. Korean Zombie;Dec / 21 / 2019;Decision (Unanimous);Thomas Fann;3;5:00
+Marc-Andre Barriault;Krzysztof Jotko;loss;UFC 240 - Holloway vs. Edgar;Jul / 27 / 2019;Decision (Split);Herb Dean;3;5:00
+Marc-Andre Barriault;Andrew Sanchez;loss;UFC Fight Night 151 - Iaquinta vs. Cowboy;May / 04 / 2019;Decision (Unanimous);Todd Anderson;3;5:00
+Marc-Andre Barriault;Adam Hunter;win;TKO 44 - Hunter vs. Barriault;Sep / 21 / 2018;KO (Punches);N/A;1;4:28
+Marc-Andre Barriault;Brendan Kornberger;win;TKO 43 - Barriault vs. Kornberger;May / 04 / 2018;KO (Punches);Luc Lefebvre;2;4:25
+Marc-Andre Barriault;Strahinja Gavrilovic;win;TKO 41 - Champions ;Dec / 08 / 2017;Decision (Split);Luc Lefebvre;5;5:00
+Marc-Andre Barriault;Todd Stoute;win;TKO 40 - Denouement;Sep / 08 / 2017;Decision (Split);Jason Herzog;3;5:00
+Marc-Andre Barriault;Jonathan Vallee;win;TKO 39 - Ultimatum;Jun / 16 / 2017;TKO (Retirement);N/A;2;5:00
+Marc-Andre Barriault;Yacine Bandoui;win;TKO 38 - Ascension;Apr / 07 / 2017;KO (Punch);N/A;1;3:54
+Marc-Andre Barriault;Strahinja Gavrilovic;win;Hybrid Combat - Hybrid Pro Series 5;Oct / 15 / 2016;Decision (Split);N/A;3;5:00
+Marc-Andre Barriault;Martin  Leblanc;win;LAMMQ - Quebec Mixed Martial Arts League 5;May / 21 / 2016;TKO (Punches);N/A;2;3:06
+Marc-Andre Barriault;Jonathan Vallee;loss;Hybrid Combat - Hybrid Pro Series 4;Oct / 17 / 2015;Decision (Split);N/A;3;5:00
+Marc-Andre Barriault;James Kouame;win;LAMMQ - Quebec Mixed Martial Arts League 4;Jun / 06 / 2015;TKO (Punches);N/A;1;1:19
+Marc-Andre Barriault;James Kouame;win;Hybrid Combat - Hybrid Pro Series 2;Nov / 15 / 2014;KO (Punch);N/A;1;3:50
+Marc-Andre Barriault;Paul Cressaty;win;LAMMQ - Quebec Mixed Martial Arts League 3;Jun / 21 / 2014;KO (Punch);N/A;1;2:22
+T.J. Brown;Jordan Griffin;loss;UFC Fight Night 169 - Benavidez vs. Figueiredo;Feb / 29 / 2020;Technical Submission (Guillotine Choke);Mike King;2;3:38
+T.J. Brown;Dylan Lockard;win;Dana White's Contender Series - Season 3, Episode 10;Aug / 27 / 2019;Submission (Arm-Triangle Choke);Jason Herzog;3;2:59
+T.J. Brown;Ken Beverly;win;LFA 67 - James vs. Martin;May / 24 / 2019;KO (Head Kick);Mike England;1;1:45
+T.J. Brown;CJay Hunter;win;PF - Pyramid Fights 11;Apr / 13 / 2019;Submission (Arm Triangle Choke);N/A;1;4:50
+T.J. Brown;Edwin Williams;win;GCF 8 - Gladiator Cage Fighting 8;Mar / 09 / 2019;KO (Head Kick);Rocky Demier;1;0:40
+T.J. Brown;Cody Carrillo;loss;C3 Fights - Border Wars;Feb / 10 / 2018;KO;N/A;1;2:28
+T.J. Brown;Peter Barrett;win;Cage Titans FC - Cage Titans 36;Nov / 04 / 2017;Submission (Arm-Triangle Choke);N/A;3;0:35
+T.J. Brown;Trey Ogden;loss;LFA 21 - Noblitt vs. Branjao;Sep / 01 / 2017;Submission (Rear-Naked Choke);Mike England;1;2:27
+T.J. Brown;Kevin Henry;win;360 Fight Club - 360 Fight Club;Apr / 15 / 2017;KO (Punches);N/A;1;0:08
+T.J. Brown;Tyler Smith;win;360 Fight Club - 360 Fight Club 1;Feb / 18 / 2017;Submission (Rear-Naked Choke);N/A;1;2:54
+T.J. Brown;Bobby Moffett;loss;RFA 46 - Johnson vs. Tucker;Dec / 09 / 2016;Decision (Split);Mike England;3;5:00
+T.J. Brown;Joey Miolla;loss;RFA 44 - Moises vs. Freeman;Sep / 30 / 2016;Submission (Rear-Naked Choke);Mike England;2;4:32
+T.J. Brown;Rodney Allison;win;XFI 17 - Xtreme Fighting Inc. 17;Jun / 25 / 2016;Submission (Rear-Naked Choke);N/A;1;4:50
+T.J. Brown;Tyrone Paige;win;OTCMMA - Off the Chain MMA 11: Battle and Glory;Apr / 02 / 2016;Decision (Unanimous);N/A;3;5:00
+T.J. Brown;Francisco Olivera;win;RMMA - Renaissance MMA 35;Oct / 16 / 2015;Submission (Arm-Triangle Choke);N/A;3;3:29
+T.J. Brown;Tyrone Paige;win;OTCMMA - Off the Chain MMA 9: Apocalypse in the Park;Aug / 22 / 2015;Submission (Arm-Triangle Choke);N/A;1;2:28
+T.J. Brown;Bobby Taylor;loss;AXS TV Fights - RFA vs. Legacy Superfight;May / 08 / 2015;TKO (Punches);N/A;1;1:56
+T.J. Brown;Deartie Tucker III;win;OTCMMA - Off The Chain MMA 7;Feb / 07 / 2015;TKO;N/A;1;0:28
+T.J. Brown;Latral Perdue;win;V3 Fights - Johnson vs. Kennedy;Jan / 24 / 2015;Submission (Rear-Naked Choke);N/A;1;0:33
+T.J. Brown;Adrian Walker;win;OTCMMA - Off The Chain MMA 6;Oct / 11 / 2014;Submission (Arm-Triangle Choke);N/A;2;2:29
+T.J. Brown;Shelby Graham;loss;CCC - Cage Combat Championships 5;Nov / 09 / 2013;TKO (Didn't Answer the bell for Round 2);N/A;1;5:00
+Antonio Carlos Jr.;Uriah Hall;loss;UFC Fight Night 158 - Cowboy vs. Gaethje;Sep / 14 / 2019;Decision (Split);Jerin Valel;3;5:00
+Antonio Carlos Jr.;Ian Heinisch;loss;UFC Fight Night 152 - Dos Anjos vs. Lee;May / 18 / 2019;Decision (Unanimous);Todd Anderson;3;5:00
+Antonio Carlos Jr.;Tim Boetsch;win;UFC on Fox 29 - Poirier vs. Gaethje;Apr / 14 / 2018;Submission (Rear-Naked Choke);Herb Dean;1;4:28
+Antonio Carlos Jr.;Jack Marshman;win;UFC Fight Night 119 - Brunson vs. Machida;Oct / 28 / 2017;Submission (Rear-Naked Choke);Osiris Maia;1;4:30
+Antonio Carlos Jr.;Eric Spicely;win;UFC 212 - Aldo vs. Holloway;Jun / 03 / 2017;Submission (Rear-Naked Choke);John McCarthy;2;3:49
+Antonio Carlos Jr.;Marvin Vettori;win;UFC 207 - Nunes vs. Rousey;Dec / 30 / 2016;Decision (Unanimous);Mark Smith;3;5:00
+Antonio Carlos Jr.;Leonardo Guimaraes;win;UFC Fight Night 94 - Poirier vs. Johnson;Sep / 17 / 2016;Submission (Rear-Naked Choke);Jacob Montalvo;3;4:46
+Antonio Carlos Jr.;Daniel Kelly;loss;UFC Fight Night 85 - Hunt vs. Mir;Mar / 19 / 2016;TKO (Punches);Greg Kleynjans;3;1:36
+Antonio Carlos Jr.;Kevin Casey;NC;UFC Fight Night 80 - Namajunas vs. VanZant;Dec / 10 / 2015;No Contest (Eye Poke);Mark Smith;1;0:11
+Antonio Carlos Jr.;Eddie Gordon;win;UFC Fight Night 70 - Machida vs. Romero;Jun / 27 / 2015;Submission (Rear-Naked Choke);Jorge Alonso;3;4:37
+Antonio Carlos Jr.;Patrick Cummins;loss;UFC Fight Night 58 - Machida vs. Dollaway;Dec / 20 / 2014;Decision (Unanimous);Mario Yamasaki;3;5:00
+Antonio Carlos Jr.;Vitor Miranda;win;UFC - The Ultimate Fighter Brazil 3 Finale;May / 31 / 2014;Decision (Unanimous);Herb Dean;3;5:00
+Antonio Carlos Jr.;Edinaldo Novaes;win;CPMMAF 2 - Salvador vs. Feira de Santana;Oct / 26 / 2013;Submission (Armbar);Tiago Aires;1;4:16
+Antonio Carlos Jr.;Jeronimo Ribeiro de Oliveira;win;Imperium - MMA Pro 6;Sep / 14 / 2013;Submission (Arm-Triangle Choke);Iure Campos;1;1:41
+Antonio Carlos Jr.;Celivaldo Pereira da Silva;win;Nordeste Jiu-Jitsu Association - Nordeste MMA 1;Jul / 20 / 2013;Submission (Arm-Triangle Choke);N/A;1;1:02
+Seung Woo Choi;Suman Mokhtarian;win;UFC Fight Night 165 - Edgar vs. Korean Zombie;Dec / 21 / 2019;Decision (Unanimous);Greg Kleynjans;3;5:00
+Seung Woo Choi;Gavin Tucker;loss;UFC 240 - Holloway vs. Edgar;Jul / 27 / 2019;Submission (Rear-Naked Choke);Marc Goddard;3;3:17
+Seung Woo Choi;Movsar Evloev;loss;UFC Fight Night 149 - Overeem vs. Oleynik;Apr / 20 / 2019;Decision (Unanimous);Vjacheslav Kiselev;3;5:00
+Seung Woo Choi;Jae Woong Kim;win;TFC 16 - Top FC 16;Dec / 09 / 2017;KO (Punch);N/A;2;2:47
+Seung Woo Choi;Young Bok Kil;win;TFC 15 - Top FC 15;Jul / 22 / 2017;TKO (Punches);N/A;1;1:33
+Seung Woo Choi;Jae Woong Kim;loss;TFC 14 - Woo vs. Woong;Mar / 18 / 2017;TKO (Punches);N/A;1;0:36
+Seung Woo Choi;Min Gu Lee;win;TFC 12 - Top FC 12;Sep / 11 / 2016;KO (Punch);N/A;4;2:38
+Seung Woo Choi;Rocky Lee;win;AOW - Art of War 17;Apr / 30 / 2016;Decision (Unanimous);Herb Dean;2;5:00
+Seung Woo Choi;Tae  Seok Oh;win;Top FC 10 - Min Gu vs. Yeong Gwang;Mar / 19 / 2016;KO (Knee);N/A;1;1:55
+Seung Woo Choi;Nurzhan Tutkaev;win;Kunlun Fight - Cage Series 4;Nov / 04 / 2015;Decision (Unanimous);N/A;3;5:00
+Seung Woo Choi;Tae Seung Yoon;win;Top FC 8 - Heart of a Champion;Aug / 15 / 2015;TKO (Cut);N/A;1;1:45
+Doo Ho Choi;Charles Jourdain;loss;UFC Fight Night 165 - Edgar vs. Korean Zombie;Dec / 21 / 2019;TKO (Punches);Peter Hickmott;2;4:32
+Doo Ho Choi;Jeremy Stephens;loss;UFC Fight Night 124 - Stephens vs. Choi;Jan / 14 / 2018;TKO (Punches and Elbows);Keith Peterson;2;2:36
+Doo Ho Choi;Cub Swanson;loss;UFC 206 - Holloway vs. Pettis;Dec / 10 / 2016;Decision (Unanimous);Dan Miragliotta;3;5:00
+Doo Ho Choi;Thiago Tavares;win;UFC  - The Ultimate Fighter 23 Finale;Jul / 08 / 2016;KO (Punches);Herb Dean;1;2:42
+Doo Ho Choi;Sam Sicilia;win;UFC Fight Night 79 - Henderson vs. Masvidal;Nov / 28 / 2015;KO (Punches);Greg Kleynjans;1;1:33
+Doo Ho Choi;Juan Manuel Puig;win;UFC Fight Night 57 - Edgar vs. Swanson;Nov / 22 / 2014;TKO (Punches);Mario Yamasaki;1;0:18
+Doo Ho Choi;Shoji Maruyama;win;Deep - Cage Impact 2013;Jun / 15 / 2013;TKO (Punches);Yuji Shimada;2;2:33
+Doo Ho Choi;Tatsunao Nagakura;win;Deep - 61 Impact;Feb / 16 / 2013;TKO (Corner Stoppage);Yoshinori Umeki;2;4:14
+Doo Ho Choi;Kosuke Umeda;win;Deep - 59 Impact;Aug / 18 / 2012;KO (Punch);Samio Kimura;1;2:49
+Doo Ho Choi;Mitsuhiro Ishida;win;Deep - 56 Impact;Dec / 16 / 2011;TKO (Knee and Punches);Akira Shoji;1;1:33
+Doo Ho Choi;Nobuhiro Obiya;win;Deep - Cage Impact 2011 in Tokyo, 2nd Round;Oct / 29 / 2011;KO (Flying Knee);Samio Kimura;3;0:15
+Doo Ho Choi;Hisaki Hiraishi;win;Gladiator - Gladiator 23;Sep / 03 / 2011;Decision (Unanimous);N/A;2;5:00
+Doo Ho Choi;Atsuhiro Tsuboi;win;Deep - clubDeep Nagoya: Kobudo Fight;Sep / 05 / 2010;TKO (Punches);N/A;1;4:53
+Doo Ho Choi;Yuichiro Ono;win;Gladiator - Gladiator 7;Jun / 27 / 2010;TKO (Punches);N/A;1;0:00
+Doo Ho Choi;Ikuo Usuda;win;SRC  - Sengoku Raiden Championship 13;Jun / 20 / 2010;Decision (Split);Samio Kimura;3;5:00
+Doo Ho Choi;Yusuke Kagiyama;loss;Deep - Cage Impact 2010 in Osaka;Jun / 06 / 2010;Decision (Split);N/A;2;5:00
+Doo Ho Choi;Jong Hwa Lee;win;M-1 Selection 2010 - Asia Round 1;Mar / 05 / 2010;TKO (Punches);Woo Suk Choi;2;3:20
+Doo Ho Choi;Takashi Matsuoka;win;Grachan - Grachan 3;Nov / 29 / 2009;Submission (Armbar);N/A;1;1:05
+T.J. Dillashaw;Henry Cejudo;loss;UFC Fight Night 143 - Cejudo vs. Dillashaw;Jan / 19 / 2019;TKO (Punches);Kevin MacDonald;1;0:32
+T.J. Dillashaw;Cody Garbrandt;win;UFC 227 - Dillashaw vs. Garbrandt 2;Aug / 04 / 2018;KO (Knee and Punches);Herb Dean;1;4:10
+T.J. Dillashaw;Cody Garbrandt;win;UFC 217 - Bisping vs. St. Pierre;Nov / 04 / 2017;TKO (Punches);Dan Miragliotta;2;2:41
+T.J. Dillashaw;John Lineker;win;UFC 207 - Nunes vs. Rousey;Dec / 30 / 2016;Decision (Unanimous);Herb Dean;3;5:00
+T.J. Dillashaw;Raphael Assuncao;win;UFC 200 - Tate vs. Nunes;Jul / 09 / 2016;Decision (Unanimous);Mark Smith;3;5:00
+T.J. Dillashaw;Dominick Cruz;loss;UFC Fight Night 81 - Dillashaw vs. Cruz;Jan / 17 / 2016;Decision (Split);Herb Dean;5;5:00
+T.J. Dillashaw;Renan Barao;win;UFC on Fox 16 - Dillashaw vs. Barao 2;Jul / 25 / 2015;TKO (Punches);Herb Dean;4;0:35
+T.J. Dillashaw;Joe Soto;win;UFC 177 - Dillashaw vs. Soto;Aug / 30 / 2014;KO (Head Kick and Punches);John McCarthy;5;2:20
+T.J. Dillashaw;Renan Barao;win;UFC 173 - Barao vs. Dillashaw;May / 24 / 2014;TKO (Head Kick and Punches);Herb Dean;5;2:26
+T.J. Dillashaw;Mike Easton;win;UFC Fight Night 35 - Rockhold vs. Philippou;Jan / 15 / 2014;Decision (Unanimous);Dan Miragliotta;3;5:00
+T.J. Dillashaw;Raphael Assuncao;loss;UFC Fight Night 29 - Maia vs. Shields;Oct / 09 / 2013;Decision (Split);Mario Yamasaki;3;5:00
+T.J. Dillashaw;Hugo Viana;win;UFC on Fox 7 - Henderson vs. Melendez;Apr / 20 / 2013;TKO (Punches);John McCarthy;1;4:22
+T.J. Dillashaw;Issei Tamura;win;UFC 158 - St. Pierre vs. Diaz;Mar / 16 / 2013;KO (Head Kick and Punches);Yves Lavigne;2;0:26
+T.J. Dillashaw;Vaughan Lee;win;UFC on Fuel TV 4 - Munoz vs. Weidman;Jul / 11 / 2012;Submission (Neck Crank);Jason McCoy;1;2:33
+T.J. Dillashaw;Walel Watson;win;UFC on Fuel TV 1 - Sanchez vs. Ellenberger;Feb / 15 / 2012;Decision (Unanimous);Dan Miragliotta;3;5:00
+T.J. Dillashaw;John Dodson;loss;UFC - The Ultimate Fighter 14 Finale;Dec / 03 / 2011;TKO (Punches);Herb Dean;1;1:54
+T.J. Dillashaw;Taylor McCorriston;win;CFC  - Capitol Fighting Championships;Nov / 20 / 2010;TKO (Punches);Ray Balewicz;3;1:07
+T.J. Dillashaw;Mike Suarez;win;Rebel Fighter - Domination;Oct / 02 / 2010;Submission (Rear-Naked Choke);Josh Rosenthal;1;2:42
+T.J. Dillashaw;Brandon Drucker;win;FFW - Fight for Wrestling 1;May / 22 / 2010;Submission (Rear-Naked Choke);Josh Rosenthal;1;2:46
+T.J. Dillashaw;Czar Sklavos;win;KOTC - Legacy;Mar / 26 / 2010;Decision (Unanimous);N/A;3;5:00
+C.B. Dollaway;Jiri Prochazka;loss;Rizin FF - Rizin 20;Dec / 31 / 2019;KO (Punches);Ryogaku Wada;1;1:55
+C.B. Dollaway;Khalid Murtazaliev;loss;UFC Fight Night 136 - Hunt vs. Oleynik;Sep / 15 / 2018;TKO (Punches);Herb Dean;2;5:00
+C.B. Dollaway;Hector Lombard;win;UFC 222 - Cyborg vs. Kunitskaya;Mar / 03 / 2018;Disqualification (Punches After the Bell);Mark Smith;1;5:00
+C.B. Dollaway;Ed Herman;win;UFC - The Ultimate Fighter 25 Finale;Jul / 07 / 2017;Decision (Unanimous);Marc Goddard;3;5:00
+C.B. Dollaway;Nate Marquardt;loss;UFC on Fox 17 - Dos Anjos vs. Cerrone 2;Dec / 19 / 2015;KO (Punch);Herb Dean;2;0:28
+C.B. Dollaway;Michael Bisping;loss;UFC 186 - Johnson vs. Horiguchi;Apr / 25 / 2015;Decision (Unanimous);Jerin Valel;3;5:00
+C.B. Dollaway;Lyoto Machida;loss;UFC Fight Night 58 - Machida vs. Dollaway;Dec / 20 / 2014;TKO (Kick to the Body and Punches);Jerin Valel;1;1:02
+C.B. Dollaway;Francis Carmont;win;UFC Fight Night 41 - Munoz vs. Mousasi;May / 31 / 2014;Decision (Unanimous);Leon Roberts;3;5:00
+C.B. Dollaway;Cezar Ferreira;win;UFC Fight Night 38 - Shogun vs. Henderson 2;Mar / 23 / 2014;KO (Punches);Mario Yamasaki;1;0:39
+C.B. Dollaway;Tim Boetsch;loss;UFC 166 - Velasquez vs. Dos Santos 3;Oct / 19 / 2013;Decision (Split);Kerry Hatley;3;5:00
+C.B. Dollaway;Daniel Sarafian;win;UFC on FX 7 - Belfort vs. Bisping;Jan / 19 / 2013;Decision (Split);Mario Yamasaki;3;5:00
+C.B. Dollaway;Jason Miller;win;UFC 146 - Dos Santos vs. Mir;May / 26 / 2012;Decision (Unanimous);Yves Lavigne;3;5:00
+C.B. Dollaway;Jared Hamman;loss;UFC Live 5 - Hardy vs. Lytle;Aug / 14 / 2011;TKO (Punches);Herb Dean;2;3:38
+C.B. Dollaway;Mark Munoz;loss;UFC Live 3 - Sanchez vs. Kampmann;Mar / 03 / 2011;KO (Punches);Mario Yamasaki;1;0:54
+C.B. Dollaway;Joe Doerksen;win;UFC 119 - Mir vs. Cro Cop;Sep / 25 / 2010;Submission (Guillotine Choke);Jeff Malott;1;2:13
+C.B. Dollaway;Goran Reljic;win;UFC 110 - Nogueira vs. Velasquez;Feb / 20 / 2010;Decision (Unanimous);John Sharp;3;5:00
+C.B. Dollaway;Jay Silva;win;UFC Fight Night 19 - Diaz vs. Guillard;Sep / 16 / 2009;Decision (Unanimous);Leon Roberts;3;5:00
+C.B. Dollaway;Tom Lawlor;loss;UFC 100 - Lesnar vs. Mir 2;Jul / 11 / 2009;Technical Submission (Guillotine Choke);Yves Lavigne;1;0:55
+C.B. Dollaway;Mike Massenzio;win;UFC 92 - The Ultimate 2008;Dec / 27 / 2008;TKO (Punches);Yves Lavigne;1;3:01
+C.B. Dollaway;Jesse Taylor;win;UFC Fight Night 14 - Silva vs. Irvin;Jul / 19 / 2008;Submission (Peruvian Necktie);Yves Lavigne;1;3:58
+C.B. Dollaway;Amir Sadollah;loss;UFC - The Ultimate Fighter 7 Finale;Jun / 21 / 2008;Submission (Armbar);Herb Dean;1;3:02
+C.B. Dollaway;Bill Smallwood;win;SE - Vale Tudo;Oct / 27 / 2007;Submission (Rear-Naked Choke);N/A;1;N/A
+C.B. Dollaway;Hans Marrero;win;HDNF 1 - HDNet Fights;Oct / 13 / 2007;TKO (Knee and Punches);N/A;1;1:07
+C.B. Dollaway;Joe Bunch;win;IFO - Wiuff vs. Salmon;Sep / 01 / 2007;TKO (Punches);N/A;2;4:31
+C.B. Dollaway;George Hartman;win;RITC 94 - Rage in the Cage 94;Apr / 28 / 2007;Decision (Unanimous);N/A;3;3:00
+C.B. Dollaway;Levi LaLonde;win;WFC - Desert Storm;Mar / 31 / 2007;TKO (Punches);N/A;1;2:40
+C.B. Dollaway;Chuck Pablo;win;CFF - Cage Fighting Federation;Nov / 10 / 2006;TKO (Slam);N/A;0;N/A
+Da Un Jung;Mike Rodriguez;win;UFC Fight Night 165 - Edgar vs. Korean Zombie;Dec / 21 / 2019;KO (Punches);Marc Goddard;1;1:04
+Da Un Jung;Khadis Ibragimov;win;UFC Fight Night 157 - Andrade vs. Zhang;Aug / 31 / 2019;Submission (Guillotine Choke);Leon Roberts;3;2:00
+Da Un Jung;Sasa Milinkovic;win;Heat - Heat 44;Mar / 02 / 2019;TKO (Elbows);N/A;3;0:58
+Da Un Jung;Abutalib Halilov;win;RFC Way Of The Dragon - Championships 3;Jan / 12 / 2019;TKO (Elbows);N/A;2;3:10
+Da Un Jung;Yuto Nakajima;win;Heat - Heat 43;Sep / 17 / 2018;TKO (Punches);N/A;2;1:33
+Da Un Jung;Peterson Almeida Vilela;win;Heat - Heat 42;May / 27 / 2018;TKO (Punches and Elbows);N/A;2;3:55
+Da Un Jung;Hulk Hulk;win;Heat - Heat 41;Dec / 23 / 2017;KO (Punches);N/A;1;2:20
+Da Un Jung;Ryo Sakai;win;TFC 15 - Top FC 15;Jul / 22 / 2017;Decision (Unanimous);N/A;3;5:00
+Da Un Jung;Hyun Soo Lee;win;Top FC - TFC Dream 2: Lightweight Tournament Semifinals;Jan / 21 / 2017;TKO (Punches);N/A;1;1:54
+Da Un Jung;Shunsuke Inoue;win;Heat - Heat 38;Sep / 25 / 2016;TKO (Punches);N/A;2;3:26
+Da Un Jung;Handong Kong;win;AOW - Art of War 18;Jul / 30 / 2016;Submission (Arm-Triangle Choke);Herb Dean;1;7:30
+Da Un Jung;Lucas Tani;win;Heat - Heat 37;Mar / 06 / 2016;TKO (Punches);N/A;3;2:24
+Da Un Jung;Roque Martinez;loss;Top FC 9 - Battle of Incheon;Oct / 24 / 2015;Submission (Kimura);N/A;1;4:30
+Da Un Jung;Jun Soo Lim;loss;Top FC 8 - Heart of a Champion;Aug / 15 / 2015;Decision (Majority);N/A;3;5:00
+Da Un Jung;Hyung  Chul-Lee;win;Top FC 7 - Return to Basics;May / 29 / 2015;TKO (Punches);N/A;1;1:45
+Bharat Khandare;Yadong Song;loss;UFC Fight Night 122 - Bisping vs. Gastelum;Nov / 25 / 2017;Submission (Guillotine Choke);John Sharp;1;4:16
+Bharat Khandare;Ahmed Faress;loss;Brave CF 5 - Go for Glory;Apr / 22 / 2017;Submission (Triangle Choke);N/A;1;3:19
+Bharat Khandare;Sami Amin;win;SFL 28-29 - Super Fight League 28-29;Sep / 28 / 2013;Submission (Rear-Naked Choke);Ryan Thorpe;2;3:06
+Bharat Khandare;Pierre Daguzan;win;SFL 20-21 - Super Fight League 20-21;Aug / 03 / 2013;TKO (Punches);Ryan Thorpe;2;1:44
+Bharat Khandare;Narender Grewal;win;SFL 13 - Night of Champions;Dec / 14 / 2012;Submission (Guillotine Choke);Yuji Shimada;1;1:31
+Bharat Khandare;Pushpender Singh;win;SFL 8 - Super Fight League 8;Nov / 09 / 2012;Submission (Rear-Naked Choke);Dejan Tesic;1;1:20
+Bharat Khandare;Soro Ismael;win;SFL 2 - Super Fight League 2;Apr / 07 / 2012;Submission (Punches);Yuji Shimada;1;2:16
+Bharat Khandare;Nariman Musaev;loss;WAFC - Team Kazakhstan vs. Team India;Jan / 30 / 2010;Submission (Armbar);N/A;1;0:00
+Alexey Kunchenko;Elizeu Zaleski dos Santos;loss;UFC Fight Night 170 - Lee vs. Oliveira;Mar / 14 / 2020;Decision (Unanimous);Osiris Maia;3;5:00
+Alexey Kunchenko;Gilbert Burns;loss;UFC Fight Night 156 - Shevchenko vs. Carmouche 2;Aug / 10 / 2019;Decision (Unanimous);Keith Peterson;3;5:00
+Alexey Kunchenko;Yushin Okami;win;UFC Fight Night 142 - Dos Santos vs. Tuivasa;Dec / 01 / 2018;Decision (Unanimous);Neil Swailes;3;5:00
+Alexey Kunchenko;Thiago Alves;win;UFC Fight Night 136 - Hunt vs. Oleynik;Sep / 15 / 2018;Decision (Unanimous);Marc Goddard;3;5:00
+Alexey Kunchenko;Alexander Butenko;win;M-1 Challenge 90 - Kunchenko vs. Butenko;Mar / 30 / 2018;TKO (Punches and Knees);Lukasz Bosacki;3;4:04
+Alexey Kunchenko;Sergey Romanov;win;M-1 Challenge 84 - 20 Years of MMA;Oct / 27 / 2017;KO (Punches);Viktor Korneev;1;2:35
+Alexey Kunchenko;Maxim Grabovich;win;M-1 Challenge 75 - Shlemenko vs. Bradley;Mar / 03 / 2017;Decision (Unanimous);Vyacheslav Kiselev;5;5:00
+Alexey Kunchenko;Murad Abdulaev;win;M-1 Challenge 72 - Kunchenko vs. Abdulaev 2;Nov / 18 / 2016;Decision (Unanimous);Lukasz Bosacki;5;5:00
+Alexey Kunchenko;Eduardo Ramon;win;M-1 Challenge 70 - Kunchenko vs. Ramon;Sep / 10 / 2016;Decision (Unanimous);Marco Broersen;3;5:00
+Alexey Kunchenko;Murad Abdulaev;win;M-1 Challenge 65 - Emeev vs. Falcao;Apr / 08 / 2016;TKO (Punches);Vyacheslav Kiselev;4;3:12
+Alexey Kunchenko;Carlos Alexandre Pereira;win;OMMAF - Scythian Gold 2015;Nov / 21 / 2015;TKO (Punches);N/A;1;N/A
+Alexey Kunchenko;Alexandre Ramos;win;M-1 Challenge 62 - Buchinger vs. Barnaoui;Oct / 10 / 2015;TKO (Punches);Mika Sinkkonen;1;4:32
+Alexey Kunchenko;Ron Keslar;win;League S-70 - Plotforma 6th;Aug / 29 / 2015;KO (Punch);Valentin Tarasov;3;1:35
+Alexey Kunchenko;Dez Parker;win;M-1 Challenge 57 - Battle in the Heart of the Continent;May / 02 / 2015;KO (Punches);Vyacheslav Kiselev;1;2:55
+Alexey Kunchenko;Grigoriy Kichigin;win;M-1 Global / Absolute Championship Berkut - M-1 Challenge 54 / ACB 12;Dec / 17 / 2014;TKO (Punches);Mika Sinkkonen;1;2:33
+Alexey Kunchenko;Ronny Alexander Landaeta Utrera;win;OMMAF - Scythian Gold 2014;Oct / 18 / 2014;Decision (Unanimous);Alexander Ivanov;3;5:00
+Alexey Kunchenko;Adil Boranbayev;win;League S-70 - Plotforma 5th;Aug / 09 / 2014;TKO (Punches);Valentin Tarasov;2;4:46
+Alexey Kunchenko;Felipe Salvador Nsue Ayiugono;win;Fight Nights - Battle of Moscow 16;Jul / 11 / 2014;TKO (Punches);Gennady Zuev;2;4:05
+Alexey Kunchenko;Anatoly Safronov;win;M-1 Global - M-1 Challenge 47;Apr / 04 / 2014;TKO (Retirement);Viktor Korneev;3;2:00
+Alexey Kunchenko;Gennadiy Kovalev;win;FEFoMP - International Tournament of Pankration;Mar / 08 / 2014;TKO (Punches);Dmitry Sazonov;2;4:13
+Alexey Kunchenko;Jani Ridasmaa;win;TFN - Tyumen Fight Night;Aug / 04 / 2013;TKO (Corner Stoppage);N/A;2;0:00
+Alexey Kunchenko;Gasan Mamedov;win;ND - Nord Desant;May / 11 / 2013;Submission (Rear-Naked Choke);Murat Dibirov;2;3:43
+Alexey Oleynik;Fabricio Werdum;win;UFC 249 - Ferguson vs. Gaethje;May / 09 / 2020;Decision (Split);Herb Dean;3;5:00
+Alexey Oleynik;Maurice Greene;win;UFC 246 - McGregor vs. Cerrone;Jan / 18 / 2020;Submission (Armbar);Keith Peterson;2;4:38
+Alexey Oleynik;Walt Harris;loss;UFC on ESPN 4 - Dos Anjos vs. Edwards;Jul / 20 / 2019;KO (Knee and Punches);Jacob Montalvo;1;0:12
+Alexey Oleynik;Alistair Overeem;loss;UFC Fight Night 149 - Overeem vs. Oleynik;Apr / 20 / 2019;TKO (Punches);Marc Goddard;1;4:45
+Alexey Oleynik;Mark Hunt;win;UFC Fight Night 136 - Hunt vs. Oleynik;Sep / 15 / 2018;Submission (Rear-Naked Choke);Herb Dean;1;4:26
+Alexey Oleynik;Junior Albini;win;UFC 224 - Nunes vs. Pennington;May / 12 / 2018;Submission (Ezekiel Choke);Leon Roberts;1;1:45
+Alexey Oleynik;Curtis Blaydes;loss;UFC 217 - Bisping vs. St. Pierre;Nov / 04 / 2017;TKO (Doctor Stoppage);Blake Grice;2;1:56
+Alexey Oleynik;Travis Browne;win;UFC 213 - Romero vs. Whittaker;Jul / 08 / 2017;Submission (Neck Crank);John McCarthy;2;3:44
+Alexey Oleynik;Viktor Pesta;win;UFC Fight Night 103 - Rodriguez vs. Penn;Jan / 15 / 2017;Submission (Ezekiel Choke);Nic Jones;1;2:57
+Alexey Oleynik;Daniel Omielanczuk;loss;UFC Fight Night 91 - McDonald vs. Lineker;Jul / 13 / 2016;Decision (Majority);Kevin MacDonald;3;5:00
+Alexey Oleynik;Jared Rosholt;win;UFC Fight Night 57 - Edgar vs. Swanson;Nov / 22 / 2014;KO (Punches);Kerry Hatley;1;3:21
+Alexey Oleynik;Anthony Hamilton;win;UFC Fight Night 44 - Swanson vs. Stephens;Jun / 28 / 2014;Submission (Neck Crank);Herb Dean;1;2:18
+Alexey Oleynik;Mirko Filipovic;win;Legend - Part 2: Invasion;Nov / 08 / 2013;Submission (Neck Crank);Herb Dean;1;4:42
+Alexey Oleynik;Dion Staring;win;ProFC - ProFC 50;Oct / 16 / 2013;Submission (Arm-Triangle Choke);N/A;1;1:41
+Alexey Oleynik;Jeff Monson;win;OC - Oplot Challenge 67;Jun / 20 / 2013;Submission (Rear-Naked Choke);Andrey Kolovorotny;2;3:28
+Alexey Oleynik;Tony Lopez;win;OC - Oplot Challenge 53;Apr / 20 / 2013;Submission (Triangle Choke);Andrey Kolovorotny;3;3:19
+Alexey Oleynik;Leo Pla;win;OC - Oplot Challenge 43;Mar / 16 / 2013;TKO (Punches);Andrey Kolovorotny;1;2:56
+Alexey Oleynik;Martin Hudey;win;OP - Oplot Challenge 12;Nov / 10 / 2012;Submission (Rear-Naked Choke);Anton Bochorishvili;1;1:48
+Alexey Oleynik;Mike Stewart;win;WCMMA 1 - Portugal vs. USA;Sep / 15 / 2012;Submission (Ezekiel Choke);N/A;2;1:03
+Alexey Oleynik;Jerry Otto;win;OC - Oplot Challenge 2;May / 13 / 2012;Submission (Ezekiel Choke);N/A;1;2:20
+Alexey Oleynik;Sergey Terezimov;win;OC - Oplot Challenge 1;Mar / 25 / 2012;Submission (Armbar);N/A;1;1:04
+Alexey Oleynik;Jeff Monson;loss;M-1 Challenge 31 - Monson vs. Oleinik;Mar / 16 / 2012;Decision (Split);Marco Broersen;3;5:00
+Alexey Oleynik;Magomed Malikov;loss;Fight Star - Anapa;Jul / 22 / 2011;TKO (Punches);N/A;1;2:39
+Alexey Oleynik;Ernest Kostanyan;win;RC - Razdolie Cup;Jun / 26 / 2011;Submission (Rear-Naked Choke);N/A;1;1:22
+Alexey Oleynik;Neil Grove;loss;BFC - Bellator Fighting Championships 29;Sep / 16 / 2010;TKO (Punches);Jason Herzog;1;0:45
+Alexey Oleynik;Mike Hayes;win;BFC - Bellator Fighting Championships 26;Aug / 26 / 2010;Decision (Split);Mike England;3;5:00
+Alexey Oleynik;Michal Kita;loss;Union of Veterans of Sport - Mayor's Cup 2009;Nov / 27 / 2009;TKO (Punches);N/A;1;1:17
+Alexey Oleynik;Thiago      Santos;win;Union of Veterans of Sport - Mayor's Cup 2009;Nov / 27 / 2009;Submission (Ezekiel Choke);N/A;1;4:22
+Alexey Oleynik;Eddy Bengtsson;win;Union of Veterans of Sport - Mayor's Cup 2009;Nov / 27 / 2009;TKO (Submission to Punches);N/A;2;2:20
+Alexey Oleynik;Rogent Lloret;draw;M-1 Global - Breakthrough;Aug / 28 / 2009;Draw (Unanimous);N/A;3;5:00
+Alexey Oleynik;Sang Soo Lee;win;M-1 Challenge 12 - USA;Feb / 21 / 2009;Submission (Ezekiel Choke);Joe De Robbio;2;4:27
+Alexey Oleynik;Jessie Gibbs;win;M-1 Challenge 11 - 2008 Challenge Finals;Jan / 11 / 2009;Submission (Ezekiel Choke);Daisuke Noguchi;2;3:42
+Alexey Oleynik;Islam Dadalov;win;ProFC - President Cup;Oct / 25 / 2008;TKO (Punches);N/A;3;1
+Alexey Oleynik;Abdulkhalik Magomedov;win;ProFC - President Cup;Oct / 25 / 2008;Submission (Heel Hook);N/A;1;0:48
+Alexey Oleynik;Telman Sherifov;win;ProFC - Grand Prix;Oct / 04 / 2008;Submission (Guillotine Choke);N/A;1;0:48
+Alexey Oleynik;Oleg Kutepov;win;ProFC - Grand Prix;Oct / 04 / 2008;Submission (Inverted Armbar);N/A;1;1:21
+Alexey Oleynik;Magomedbag Agaev;win;ProFC - Grand Prix;Oct / 04 / 2008;Submission (Scarf Hold);N/A;1;3:47
+Alexey Oleynik;Konstantyn Stryzhak;loss;CSFU - Champions League;Sep / 13 / 2008;TKO (Punches);N/A;1;4:20
+Alexey Oleynik;Makasharip Makasharipov;win;CSFU - Champions League;Sep / 13 / 2008;Decision (Unanimous);N/A;3;5:00
+Alexey Oleynik;Alexander Timonov;win;M-1 Challenge 4 - Battle on the Neva 2;Jun / 27 / 2008;Submission (Ezekiel Choke);N/A;1;0:00
+Alexey Oleynik;Daniel Dowda;win;KSW 9 - Konfrontacja;May / 09 / 2008;Decision (Unanimous);Robert Kostecki;2;5:00
+Alexey Oleynik;Chris Tuchscherer;loss;YAMMA - Pit Fighting 1;Apr / 11 / 2008;Decision (Unanimous);N/A;1;5:00
+Alexey Oleynik;Sherman Pendergarst;win;YAMMA - Pit Fighting 1;Apr / 11 / 2008;Submission (Ezekiel Choke);N/A;1;4:18
+Alexey Oleynik;Gela Getsadze;win;MFT - Mix Fight Tournament;Dec / 14 / 2007;TKO (Punches);N/A;1;1:48
+Alexey Oleynik;Ishkhan Zakharian;win;MFT - Mix Fight Tournament;Dec / 14 / 2007;Submission (Armbar);N/A;1;2:56
+Alexey Oleynik;Andrey Oleinik;win;MFT - Mix Fight Tournament;Dec / 14 / 2007;Submission (Heel Hook);N/A;1;1:30
+Alexey Oleynik;Timur Gasanov;win;Perm Regional MMA Federation   - MMA Professional Cup;Nov / 23 / 2007;Submission (Ezekiel Choke);N/A;1;0:00
+Alexey Oleynik;Alavutdin Gadjiev;win;Perm Regional MMA Federation   - MMA Professional Cup;Nov / 23 / 2007;Submission (Ezekiel Choke);N/A;1;0:00
+Alexey Oleynik;Adlan Amagov;win;Perm Regional MMA Federation   - MMA Professional Cup;Nov / 23 / 2007;Submission (Ezekiel Choke);N/A;1;0:00
+Alexey Oleynik;Krzysztof Kulak;win;KSW 8 - Konfrontacja;Nov / 10 / 2007;Submission (Ezekiel Choke);Robert Kostecki;1;2:09
+Alexey Oleynik;Karol Bedorf;win;KSW 8 - Konfrontacja;Nov / 10 / 2007;Submission (Triangle Choke);Robert Kostecki;1;2:34
+Alexey Oleynik;Lukasz Wos;win;KSW 8 - Konfrontacja;Nov / 10 / 2007;Submission (Rear-Naked Choke);Robert Kostecki;1;3:20
+Alexey Oleynik;Shamil Nurmagomedov;win;LF - Legion Fight 1;Oct / 20 / 2007;Submission (Neck Crank);N/A;1;0:00
+Alexey Oleynik;Chael Sonnen;loss;Bodog Fight - USA vs. Russia;Dec / 02 / 2006;Decision (Unanimous);N/A;3;5:00
+Alexey Oleynik;Ishkhan Zakharian;win;Legion Fight - Black Sea Cup;Aug / 15 / 2006;Submission (Triangle Choke);N/A;1;1:21
+Alexey Oleynik;Vladimir Rudakov;win;IAFC - Cup of Russia in Professional Pankration;Apr / 14 / 2006;Submission (Triangle Choke);N/A;1;2:41
+Alexey Oleynik;Magomed Sultanakhmedov;win;IAFC - Cup of Russia in Professional Pankration;Apr / 14 / 2006;Submission (Ezekiel Choke);N/A;1;0:35
+Alexey Oleynik;Shavkat Urakov;win;IAFC - Cup of Russia in Professional Pankration;Apr / 14 / 2006;Submission (Rear-Naked Choke);N/A;1;0:41
+Alexey Oleynik;Flavio Luiz Moura;loss;M-1 MFC - Middleweight GP;Oct / 09 / 2004;Technical Submission (Rear-Naked Choke);N/A;1;1:11
+Alexey Oleynik;Marcelo Alfaya;win;M-1 MFC - Middleweight GP;Oct / 09 / 2004;Decision (Unanimous);N/A;2;5:00
+Alexey Oleynik;Azred Telkusheev;win;M-1 - Middleweight Grand Prix;Aug / 27 / 2004;Submission (Heel Hook);N/A;1;0:38
+Alexey Oleynik;Ubaidula Chopolaev;win;M-1 - Middleweight Grand Prix;Aug / 27 / 2004;Submission (Rear-Naked Choke);N/A;1;0:48
+Alexey Oleynik;Ramin Tagiev;win;M-1 - Middleweight Grand Prix;Aug / 27 / 2004;Submission (Rear-Naked Choke);N/A;1;2:03
+Alexey Oleynik;Igor Bondarenko;win;LOP - Land of Peresvit;Dec / 07 / 2001;Submission (Rear-Naked Choke);N/A;1;2:03
+Alexey Oleynik;Gennadiy Matsigora;win;LOP - Land of Peresvit;Dec / 07 / 2001;Submission (Triangle Choke);N/A;1;2:25
+Alexey Oleynik;Gennadiy Matsigora;win;InterPride - 1999;May / 16 / 1999;Submission (Armbar);N/A;1;2:03
+Alexey Oleynik;Vladimir Malyshev;win;InterPride - 1999;May / 16 / 1999;TKO (Punches);N/A;1;2:30
+Alexey Oleynik;Clarence Thatch;win;ISC 1998 - International Super Challenge 1998;Mar / 16 / 1998;TKO (Submission to Punches);N/A;1;3:43
+Alexey Oleynik;Leonid Efremov;loss;IAFC - Absolute Fighting Championship 2: Day 1;Apr / 30 / 1997;Submission (Rear-Naked Choke);N/A;1;2:48
+Alexey Oleynik;Igor Akinin;win;IAFC - Absolute Fighting Championship 2: Day 1;Apr / 30 / 1997;Submission (Guillotine Choke);N/A;1;1:20
+Alexey Oleynik;Artem Kondratko;win;Minamoto Clan - Ukraine Open No Holds Barred Championship;Nov / 10 / 1996;Submission (Rear-Naked Choke);N/A;1;4:09
+Alexey Oleynik;Sergey Zalikhvatko;win;Minamoto Clan - Ukraine Open No Holds Barred Championship;Nov / 10 / 1996;TKO (Punches);N/A;1;1:52
+Alexey Oleynik;Alexandr Kruglenko;win;Minamoto Clan - Ukraine Open No Holds Barred Championship;Nov / 10 / 1996;Submission (Rear-Naked Choke);N/A;1;3:06
+Raphael Pessoa;Jeff Hughes;win;UFC Fight Night 162 - Maia vs. Askren;Oct / 26 / 2019;Decision (Unanimous);Thomas Fan;3;5:00
+Raphael Pessoa;Ciryl Gane;loss;UFC Fight Night 156 - Shevchenko vs. Carmouche 2;Aug / 10 / 2019;Submission (Arm-Triangle Choke);Eduardo Herdy;1;4:12
+Raphael Pessoa;Brian Heden;win;LFA 50 - Allen vs. Hiley;Sep / 21 / 2018;TKO (Punches);Travis Metteer;1;1:39
+Raphael Pessoa;Wagner Maia;win;Shooto Brazil - Shooto Brazil 78;Nov / 26 / 2017;Decision (Unanimous);Osiris Maia;3;5:00
+Raphael Pessoa;Diego Pimenta;win;DC Fighters - DC Pro MMA;Aug / 26 / 2017;TKO (Punches);Diogo Sagat;1;0:23
+Raphael Pessoa;Carlos      Alexandre;win;NCE 16 - New Corpore Extreme 16: NCE Ladies;Jul / 15 / 2017;TKO (Punches);Alan Diogo;1;2:56
+Raphael Pessoa;Luan Mendes Oliveira;win;Full Fight 1 - Full Fight Championship 1;Jun / 11 / 2017;TKO (Punches);N/A;1;0:48
+Raphael Pessoa;Leonardo Alves Nascimento;win;NCE 13 - New Corpore Extreme 13;May / 13 / 2017;Decision (Unanimous);N/A;3;5:00
+Raphael Pessoa;Fabio Marongiu;win;NCE 11 - New Corpore Extreme 11;Mar / 18 / 2017;TKO (Retirement);Willian Viana;2;5:00
+Raphael Pessoa;Romulo Ismael;win;NCE 10 - New Corpore Extreme 10;Feb / 04 / 2017;Submission (Kimura);Marcos Barbosa;1;1:34
+Raphael Pessoa;Bruno Luiz Nicolau;win;NCE 9 - New Corpore Extreme 9;Dec / 10 / 2016;KO;N/A;1;0:26
+Ricardo Ramos;Luiz Eduardo Garagorri;win;UFC Fight Night 164 - Blachowicz vs. Jacare;Nov / 16 / 2019;Submission (Rear-Naked Choke);Camila Albuquerque;1;3:57
+Ricardo Ramos;Journey Newson;win;UFC on ESPN 3 - Ngannou vs. Dos Santos;Jun / 29 / 2019;Decision (Unanimous);Travis Metteer;3;5:00
+Ricardo Ramos;Said Nurmagomedov;loss;UFC Fight Night 144 - Assuncao vs. Moraes 2;Feb / 02 / 2019;TKO (Spinning Back Kick and Punches);Joao Claudio Soares;1;2:28
+Ricardo Ramos;Kyung Ho Kang;win;UFC 227 - Dillashaw vs. Garbrandt 2;Aug / 04 / 2018;Decision (Split);Mike Beltran;3;5:00
+Ricardo Ramos;Aiemann Zahabi;win;UFC 217 - Bisping vs. St. Pierre;Nov / 04 / 2017;KO (Spinning Back Elbow);Todd Anderson;3;1:58
+Ricardo Ramos;Michinori Tanaka;win;UFC Fight Night 104 - Bermudez vs. Korean Zombie;Feb / 04 / 2017;Decision (Unanimous);Herb Dean;3;5:00
+Ricardo Ramos;Alfred Khashakyan;win;NEF - Lookin' for a Fight;Aug / 05 / 2016;Submission (Rear-Naked Choke);N/A;2;2:10
+Ricardo Ramos;Manny Vazquez;loss;LFC 51 - Legacy Fighting Championship 51;Feb / 05 / 2016;Submission (Rear-Naked Choke);Rocky Demier;1;1:45
+Ricardo Ramos;Cody Walker;win;LFC 46 - Legacy Fighting Championship 46;Oct / 02 / 2015;Submission (Triangle Armbar);Birchie Stillwagoner;1;2:39
+Ricardo Ramos;Justin Rader;win;LFC 41 - Legacy Fighting Championship 41;Apr / 03 / 2015;TKO (Punches);Don Turnage;1;0:32
+Ricardo Ramos;Fabio Lima;win;MMASH - MMA Super Heroes 4;May / 30 / 2014;Submission (Triangle Choke);Alexandre Martins;3;1:49
+Ricardo Ramos;Rafael Correa;win;Talent MMA Circuit 8 - Valinhos 2014;Apr / 12 / 2014;Submission (Rear-Naked Choke);Roberto Thomaz;1;2:38
+Ricardo Ramos;Lucas Mascena;win;Talent MMA Circuit 5 - Campinas 2013;Nov / 23 / 2013;Submission (Armbar);Roberto Thomaz;1;1:59
+Ricardo Ramos;Allan Nascimento;win;Elite FC 5 - Night of Champions;Oct / 05 / 2013;Decision (Unanimous);Roberto Thomaz;3;5:00
+Ricardo Ramos;William Oliveira;win;Supreme FC - Supreme Fight Championship;Dec / 01 / 2012;TKO (Knee and Punches);Roberto Thomaz;1;0:30
+Ricardo Ramos;Josivaldo Moreno;win;CTF - CT Fight;May / 19 / 2012;Submission (Triangle Choke);Roberto Thomaz;1;0:58
+Steven Ray;Michael Johnson;win;UFC Fight Night 162 - Maia vs. Askren;Oct / 26 / 2019;Decision (Majority);Leon Roberts;3;5:00
+Steven Ray;Leonardo Santos;loss;UFC Fight Night 153 - Gustafsson vs. Smith;Jun / 01 / 2019;KO (Punch);Marc Goddard;1;2:17
+Steven Ray;Jessin Ayari;win;UFC Fight Night 138 - Oezdemir vs. Smith;Oct / 27 / 2018;Decision (Unanimous);Barry Gallant;3;5:00
+Steven Ray;Kajan Johnson;loss;UFC Fight Night 127 - Werdum vs. Volkov;Mar / 17 / 2018;Decision (Split);Leon Roberts;3;5:00
+Steven Ray;Paul Felder;loss;UFC Fight Night 113 - Nelson vs. Ponzinibbio;Jul / 16 / 2017;KO (Elbows);Grant Waterman;1;3:57
+Steven Ray;Joe Lauzon;win;UFC Fight Night 108 - Swanson vs. Lobov;Apr / 22 / 2017;Decision (Majority);Dan Miragliotta;3;5:00
+Steven Ray;Ross Pearson;win;UFC Fight Night 99 - Mousasi vs. Hall 2;Nov / 19 / 2016;Decision (Split);Leon Roberts;3;5:00
+Steven Ray;Alan Patrick Silva Alves;loss;UFC Fight Night 95 - Cyborg vs. Lansberg;Sep / 24 / 2016;Decision (Unanimous);Mario Yamasaki;3;5:00
+Steven Ray;Mickael Lebout;win;UFC Fight Night 76 - Holohan vs. Smolka;Oct / 24 / 2015;Decision (Unanimous);Leon Roberts;3;5:00
+Steven Ray;Leonardo Mafra Texeira;win;UFC Fight Night 72 - Bisping vs. Leites;Jul / 18 / 2015;TKO (Punches);Marc Goddard;1;2:30
+Steven Ray;Marcin Bandel;win;UFC Fight Night 64 - Gonzaga vs. Cro Cop 2;Apr / 11 / 2015;TKO (Punches);Leon Roberts;2;1:35
+Steven Ray;Curt Warburton;win;CWFC 73 - Cage Warriors Fighting Championship 73;Nov / 01 / 2014;Submission (Rear-Naked Choke);Marc Goddard;2;2:00
+Steven Ray;Curt Warburton;win;CWFC 69 - Super Saturday;Jun / 07 / 2014;Decision (Split);Marc Goddard;5;5:00
+Steven Ray;Ivan Buchinger;loss;CWFC 63 - Cage Warriors Fighting Championship 63;Dec / 31 / 2013;Submission (Rear-Naked Choke);Marc Goddard;4;3:43
+Steven Ray;Sean Carter;win;CWFC 60 - Cage Warriors Fighting Championship 60;Oct / 05 / 2013;Submission (Rear-Naked Choke);Marc Goddard;1;4:40
+Steven Ray;Jason Ball;win;CWFC 60 - Cage Warriors Fighting Championship 60;Oct / 05 / 2013;Decision (Unanimous);Marc Goddard;2;5:00
+Steven Ray;Curt Warburton;loss;BAMMA 12 - Wallhead vs. Veach;Mar / 09 / 2013;Decision (Unanimous);N/A;3;5:00
+Steven Ray;Dale Hardiman;win;BAMMA 11 - Marshman vs. Foupa-Pokam;Dec / 01 / 2012;Decision (Unanimous);N/A;3;5:00
+Steven Ray;Stu Barrs;win;Caledonian Combat 1 - The Gathering;Jul / 21 / 2012;TKO (Punches);N/A;2;3:37
+Steven Ray;Qasim Shafiq;win;OT - On Top 5;Jun / 02 / 2012;Submission (Armbar);Andy Sledge;1;1:02
+Steven Ray;Assan Njie;loss;CWFC - Fight Night 4;Mar / 16 / 2012;Submission (Guillotine Choke);Neil Hall;2;2:29
+Steven Ray;Vaidas Valancius;win;OT - On Top 4;Feb / 25 / 2012;Submission (Rear-Naked Choke);N/A;1;2:41
+Steven Ray;John Quinn;win;OT - On Top 3;Sep / 24 / 2011;KO (Punches);N/A;1;0:57
+Steven Ray;Nicholas Musoke;loss;OT - On Top 2;Jun / 18 / 2011;Submission (Rear-Naked Choke);Marc Goddard;1;4:56
+Steven Ray;Merv Mulholland;win;OT - On Top 2;Jun / 18 / 2011;Submission (Triangle Armbar);Marc Goddard;2;4:59
+Steven Ray;Scott Ward;win;SFC 4 - Resolution;Apr / 17 / 2011;TKO (Punches);N/A;3;0:00
+Steven Ray;Davey Parker;win;TC 39 - Total Combat 39;Mar / 12 / 2011;Submission (Arm-Triangle Choke);N/A;1;2:14
+Steven Ray;Dan Hope;loss;H - Honour 4;Nov / 27 / 2010;Technical Submission (Armbar);N/A;1;0:00
+Steven Ray;Mark Young;win;SFC 3 - Showdown;Oct / 10 / 2010;Submission (Heel Hook);N/A;1;0:00
+Steven Ray;Vincent del Guerra;win;SFC 3 - Showdown;Oct / 10 / 2010;Decision (Unanimous);N/A;2;5:00
+Steven Ray;Loic Marty;win;BatB - Brawl at the Bay;Jul / 25 / 2010;Submission (Brabo Choke);N/A;1;0:00
+Steven Ray;Shaun Edmondson;win;SFC 2 - Retribution;Jun / 27 / 2010;KO (Punch);N/A;1;1:54
+Alexander Romanov;Sergio Freitas;win;Eagles FC 11 - Eagles Fighting Championship 11;Feb / 16 / 2019;Submission;Denis Pocatilov;2;1
+Alexander Romanov;Sultan Murtazaliev;win;Eagles FC 10 - Eagles Fighting Championship 10;Nov / 03 / 2018;TKO (Punches);Denis Pocatilov;3;2:17
+Alexander Romanov;Virgil Zwicker;win;League S-70 - Plotforma S-70: 2018;Aug / 22 / 2018;Submission (Neck Crank);Valentin Tarasov;1;1:15
+Alexander Romanov;Ion Grigore;win;Eagles FC 9 - Eagles Fighting Championship 9;May / 26 / 2018;Submission (Forearm Choke);Denis Pocatilov;3;3:54
+Alexander Romanov;Alexander Stolyarov;win;Eagles FC 8 - Eagles Fighting Championship 8;Feb / 10 / 2018;TKO (Punches);Mariusz Domasat;1;0:36
+Alexander Romanov;Ravshankhon Khusanov;win;Eagles FC 7 - Eagles Fighting Championship 7;Nov / 04 / 2017;TKO;Ivan Zavtone;1;1:37
+Alexander Romanov;Yuri Gorbenko;win;Eagles FC 6 - Eagles Fighting Championship 6;Jun / 24 / 2017;Submission (Ezekiel Choke);Denis Pocatilov;1;3:01
+Alexander Romanov;Evgeniy Golub;win;Eagles FC 5 - Eagles Fighting Championship 5;May / 20 / 2017;TKO (Punches);Denis Pocatilov;1;0:48
+Alexander Romanov;Shota Betlemidze;win;ProFC Ukraine - Brave Hearts;Apr / 08 / 2017;Submission (Rear-Naked Choke);Igor Konvisher;1;4:40
+Alexander Romanov;Andrey Burdiniuk;win;Eagles FC 4 - Eagles Fighting Championship 4;Feb / 18 / 2017;Submission;Denis Pocatilov;3;0:43
+Alexander Romanov;Yuriy Protsenko;win;Eagles FC 3 - Eagles Fighting Championship 3;Nov / 19 / 2016;Submission (Rear-Naked Choke);Ivan Zavtone;1;0:50
+Khalil Rountree;Ion Cutelaba;loss;UFC Fight Night 160 - Hermansson vs. Cannonier;Sep / 28 / 2019;TKO (Elbows);Marc Goddard;1;2:35
+Khalil Rountree;Eryk Anders;win;UFC 236 - Holloway vs. Poirier;Apr / 13 / 2019;Decision (Unanimous);Blake Grice;3;5:00
+Khalil Rountree;Johnny Walker;loss;UFC Fight Night 140 - Magny vs. Ponzinibbio;Nov / 17 / 2018;KO (Elbow);Fernando Portella;1;1:57
+Khalil Rountree;Gokhan Saki;win;UFC 226 - Miocic vs. Cormier;Jul / 07 / 2018;TKO (Punches);Jason Herzog;1;1:36
+Khalil Rountree;Michal Oleksiejczuk;NC;UFC 219 - Cyborg vs. Holm;Dec / 30 / 2017;No Contest (Overturned by NSAC);Herb Dean;3;5:00
+Khalil Rountree;Paul Craig;win;UFC Fight Night 113 - Nelson vs. Ponzinibbio;Jul / 16 / 2017;KO (Punches);Leon Roberts;1;4:56
+Khalil Rountree;Daniel Jolly;win;UFC Fight Night 104 - Bermudez vs. Korean Zombie;Feb / 04 / 2017;KO (Knee);Chris Reed;1;0:52
+Khalil Rountree;Tyson Pedro;loss;UFC Fight Night 101 - Whittaker vs. Brunson;Nov / 26 / 2016;Submission (Rear-Naked Choke);Herb Dean;1;4:07
+Khalil Rountree;Andrew Sanchez;loss;UFC  - The Ultimate Fighter 23 Finale;Jul / 08 / 2016;Decision (Unanimous);Herb Dean;3;5:00
+Khalil Rountree;Justin Polendey;win;RFA 33 - Townsend vs. Chavez;Dec / 11 / 2015;KO (Punch);Milan Ayers;1;1:42
+Khalil Rountree;Cameron Olson;win;RFA 25 - Lawrence vs. Toomer;Apr / 10 / 2015;Decision (Unanimous);Bobby Wombacher;3;5:00
+Khalil Rountree;Blake Troop;win;RFA 21 - Juusola vs. Baghdad;Dec / 05 / 2014;KO (Punch);N/A;1;0:39
+Khalil Rountree;Livingston Lukow;win;RFA 15 - Casey vs. Sanchez;Jun / 06 / 2014;Decision (Unanimous);Mike Beltran;3;5:00
+Saparbek Safarov;Rodolfo Vieira;loss;UFC 248 - Adesanya vs. Romero;Mar / 07 / 2020;Submission (Arm-Triangle Choke);Jason Herzog;1;2:58
+Saparbek Safarov;Nicolae Negumereanu;win;UFC Fight Night 147 - Till vs. Masvidal;Mar / 16 / 2019;Decision (Unanimous);Leon Roberts;3;5:00
+Saparbek Safarov;Tyson Pedro;loss;UFC 221 - Romero vs. Rockhold;Feb / 10 / 2018;Submission (Kimura);Peter Hickmott;1;3:54
+Saparbek Safarov;Gian Villante;loss;UFC Fight Night 102 - Lewis vs. Abdurakhimov;Dec / 09 / 2016;TKO (Punches);Keith Peterson;2;2:54
+Saparbek Safarov;Rodney Wallace;win;WFCA 17 - Grand Prix Akhmat ;Apr / 09 / 2016;TKO (Corner Stoppage);Viktor Korneev;2;5:00
+Saparbek Safarov;Giga Kukhalashvili;win;ProFC 54 - Challenge of Champions;Sep / 07 / 2014;Submission (Guillotine Choke);N/A;1;2:13
+Saparbek Safarov;Valdas Pocevicius;win;BOS - Battle of Stars 1;Dec / 22 / 2012;TKO (Punches);Ashon Ashugyan;1;0:00
+Saparbek Safarov;Igor Sliusarchuk;win;WUFC - Challenge of Champions;Dec / 24 / 2011;TKO (Punches);N/A;1;2:54
+Saparbek Safarov;Igor Litoshik;win;M-1 Global - M-1 Ukraine European Battle;Jun / 04 / 2011;TKO (Punches);N/A;1;3:00
+Saparbek Safarov;Adrien Mallebranche;win;M-1 Selection 2011 - European Tournament;Apr / 01 / 2011;TKO (Punch);Ashot Ashugyan;1;0:04
+Saparbek Safarov;Vasily Klepikov;win;M-1 Selection Ukraine 2010 - The Finals;Feb / 12 / 2011;Submission (Rear-Naked Choke);N/A;1;1:18
+Saparbek Safarov;Visampasha Mirzakhanov;win;LF - Legion Fight 5;Nov / 20 / 2010;TKO (Punches);N/A;1;0:49
+Ovince St. Preux;Ben Rothwell;loss;UFC Fight Night 171 - Smith vs. Teixeira;May / 13 / 2020;Decision (Split);Dan Miragliotta;3;5:00
+Ovince St. Preux;Michal Oleksiejczuk;win;UFC Fight Night 160 - Hermansson vs. Cannonier;Sep / 28 / 2019;Submission (Shoulder Choke);Leon Roberts;2;2:14
+Ovince St. Preux;Nikita Krylov;loss;UFC 236 - Holloway vs. Poirier;Apr / 13 / 2019;Submission (Rear-Naked Choke);Blake Grice;2;2:30
+Ovince St. Preux;Dominick Reyes;loss;UFC 229 - Nurmagomedov vs. McGregor;Oct / 06 / 2018;Decision (Unanimous);Dan Miragliotta;3;5:00
+Ovince St. Preux;Tyson Pedro;win;UFC Fight Night 132 - Cerrone vs. Edwards;Jun / 23 / 2018;Submission (Straight Armbar);John Sharp;1;2:54
+Ovince St. Preux;Ilir Latifi;loss;UFC on Fox 28 - Emmett vs. Stephens;Feb / 24 / 2018;Submission (Guillotine Choke);Jorge Alonso;1;3:48
+Ovince St. Preux;Corey Anderson;win;UFC 217 - Bisping vs. St. Pierre;Nov / 04 / 2017;KO (Head Kick);Dan Miragliotta;3;1:25
+Ovince St. Preux;Yushin Okami;win;UFC Fight Night 117 - St. Preux vs. Okami;Sep / 22 / 2017;Technical Submission (Shoulder Choke);Leon Roberts;1;1:50
+Ovince St. Preux;Marcos Rogerio de Lima;win;UFC Fight Night 108 - Swanson vs. Lobov;Apr / 22 / 2017;Submission (Shoulder Choke);Dan Miragliotta;2;2:11
+Ovince St. Preux;Volkan Oezdemir;loss;UFC Fight Night 104 - Bermudez vs. Korean Zombie;Feb / 04 / 2017;Decision (Split);Chris Reed;3;5:00
+Ovince St. Preux;Jimi Manuwa;loss;UFC 204 - Bisping vs. Henderson 2;Oct / 08 / 2016;KO (Punches);Leon Roberts;2;2:38
+Ovince St. Preux;Jon Jones;loss;UFC 197 - Jones vs. St. Preux;Apr / 23 / 2016;Decision (Unanimous);Herb Dean;5;5:00
+Ovince St. Preux;Rafael Cavalcante;win;UFC Fight Night 82 - Hendricks vs. Thompson;Feb / 06 / 2016;Decision (Unanimous);Yves Lavigne;3;5:00
+Ovince St. Preux;Glover Teixeira;loss;UFC Fight Night 73 - Teixeira vs. St. Preux;Aug / 08 / 2015;Technical Submission (Rear-Naked Choke);John McCarthy;3;3:10
+Ovince St. Preux;Patrick Cummins;win;UFC on Fox 15 - Machida vs. Rockhold;Apr / 18 / 2015;KO (Punches);Dan Miragliotta;1;4:54
+Ovince St. Preux;Mauricio Rua;win;UFC Fight Night 56 - Shogun vs. St. Preux;Nov / 08 / 2014;KO (Punches);Mario Yamasaki;1;0:34
+Ovince St. Preux;Ryan Bader;loss;UFC Fight Night 47 - Bader vs. St. Preux;Aug / 16 / 2014;Decision (Unanimous);Dan Miragliotta;5;5:00
+Ovince St. Preux;Ryan Jimmo;win;UFC 174 - Johnson vs. Bagautinov;Jun / 14 / 2014;Submission (Kimura);Kevin Dornan;2;2:10
+Ovince St. Preux;Nikita Krylov;win;UFC 171 - Hendricks vs. Lawler;Mar / 15 / 2014;Technical Submission (Shoulder Choke);Dan Miragliotta;1;1:29
+Ovince St. Preux;Cody Donovan;win;UFC Fight Night 26 - Shogun vs. Sonnen;Aug / 17 / 2013;KO (Punches);Herb Dean;1;2:07
+Ovince St. Preux;Gian Villante;win;UFC 159 - Jones vs. Sonnen;Apr / 27 / 2013;Technical Decision (Majority);Kevin Mulhall;3;0:33
+Ovince St. Preux;T.J. Cook;win;Strikeforce - Rousey vs. Kaufman;Aug / 18 / 2012;KO (Punch);Mike Beltran;3;0:20
+Ovince St. Preux;Gegard Mousasi;loss;Strikeforce - Melendez vs. Masvidal;Dec / 17 / 2011;Decision (Unanimous);Steven Davis;3;5:00
+Ovince St. Preux;Joe Cason;win;Strikeforce - Challengers 17;Jul / 22 / 2011;TKO (Submission to Punches);Kim Winslow;1;1:12
+Ovince St. Preux;Ron Humphrey;win;Strikeforce - Challengers 13;Jan / 07 / 2011;Decision (Unanimous);Al Wichgers;3;5:00
+Ovince St. Preux;Benji Radach;win;Strikeforce - Henderson vs. Babalu 2;Dec / 04 / 2010;Decision (Unanimous);Mike England;3;5:00
+Ovince St. Preux;Antwain Britt;win;Strikeforce - Challengers 12;Nov / 19 / 2010;Decision (Unanimous);Houston Dorr;3;5:00
+Ovince St. Preux;Jason Day;win;EFC 5 - Summer Rumble;Jul / 24 / 2010;KO (Punch);N/A;1;0:08
+Ovince St. Preux;Claudio Cunha Godoy;win;Washington Combat - Battle of the Legends;May / 15 / 2010;TKO (Arm Injury);Mario Yamasaki;1;5:00
+Ovince St. Preux;Chris Hawk;win;Strikeforce - Nashville;Apr / 17 / 2010;TKO (Punches);N/A;1;0:47
+Ovince St. Preux;Brett Chism;win;GTOCF - GTO Cage Fights;Feb / 20 / 2010;TKO (Punches);Chris Mise;1;1:15
+Ovince St. Preux;Virgil Zwicker;loss;TCC 1 - Top Combat Championship 1;Sep / 26 / 2009;TKO (Punches);Kevin Mulhall;2;0:46
+Ovince St. Preux;Nik Fekete;loss;Vendetta Fighting Championship - A Night of Vengeance;Sep / 05 / 2009;Decision (Unanimous);N/A;2;5:00
+Ovince St. Preux;Jonathan Smith;win;Vendetta Fighting Championship - A Night of Vengeance;Sep / 05 / 2009;Submission (Rear-Naked Choke);N/A;1;0:46
+Ovince St. Preux;Ombey Mobley;win;XFC 8 - Regional Conflict;Apr / 25 / 2009;Submission (Calf Slicer);N/A;1;2:36
+Ovince St. Preux;Robert Turner;win;XFC 7 - School of Hard Knox;Feb / 20 / 2009;KO (Head Kick);N/A;1;2:36
+Ovince St. Preux;Ray Lizama;loss;SF 2 - Shark Fights 2;Dec / 13 / 2008;Decision (Unanimous);N/A;3;3:00
+Ovince St. Preux;Rodney Wallace;loss;VFC 1 - Vengeance Fighting Championship 1;Sep / 27 / 2008;Decision (Unanimous);N/A;3;5:00
+Gabriel Silva;Kyler Phillips;loss;UFC Fight Night 169 - Benavidez vs. Figueiredo;Feb / 29 / 2020;Decision (Unanimous);Dan Miragliotta;3;5:00
+Gabriel Silva;Ray Borg;loss;UFC on ESPN 4 - Dos Anjos vs. Edwards;Jul / 20 / 2019;Decision (Unanimous);Dan Miragliotta;3;5:00
+Gabriel Silva;Jake Heffernan;win;LFA 63 - Krantz vs. Patterson;Mar / 29 / 2019;KO (Punches);Aaron Menard;1;1:23
+Gabriel Silva;Kamil Lebkowski;win;FEN 16 - Warsaw Reloaded;Mar / 11 / 2017;Decision (Unanimous);Piotr Michalak;3;5:00
+Gabriel Silva;Wendel Araujo Rocha;win;FTF 12 - Face To Face 12 - Rizzo vs. Flores;Sep / 12 / 2015;Decision (Unanimous);N/A;3;5:00
+Gabriel Silva;Willian Vogado Fernandes;win;JF - Jungle Fight 67;Mar / 29 / 2014;Decision (Split);Douglas Aires;3;5:00
+Gabriel Silva;Vinicius Baraldo;win;JF - Jungle Fight 50;Apr / 06 / 2013;TKO (Punches);Flavio Almendra;1;0:28
+Gabriel Silva;Diego Rodrigues Pralon;win;Fenix Combat Mixed - FC1 Combat MMA;Mar / 31 / 2012;KO (Punches);N/A;1;2:14
+Gabriel Silva;Gabriel Sartorio;win;SFL - Super Fight Linhares;Dec / 12 / 2011;Decision (Unanimous);N/A;3;5:00
+Gabriel Silva;Renato Fernandes;win;BCMMA - Beginners Championship MMA;Nov / 26 / 2011;Submission (Triangle Choke);N/A;2;3:57
+Dmitry Smoliakov;Hasan Yousefi;loss;FNG 94 - Fight Nights Global 94;Oct / 12 / 2019;Decision (Unanimous);Dmitry Valuevich;3;5:00
+Dmitry Smoliakov;Greg Hardy;loss;UFC Fight Night 150 - Jacare vs. Hermansson;Apr / 27 / 2019;TKO (Punches);Keith Peterson;1;2:15
+Dmitry Smoliakov;Evgeniy Bova;win;FCA - Kaliningrad Challenge;Jan / 25 / 2019;Submission (Kimura);Alexander Zubachev;1;2:34
+Dmitry Smoliakov;Cyril Asker;loss;UFC Fight Night 103 - Rodriguez vs. Penn;Jan / 15 / 2017;TKO (Punches and Elbows);Al Guinee;1;2:41
+Dmitry Smoliakov;Luis Henrique Barbosa de Oliveira;loss;UFC on Fox 20 - Holm vs. Shevchenko;Jul / 23 / 2016;Submission (Rear-Naked Choke);Rob Madrigal;2;3:58
+Dmitry Smoliakov;Sergey Grebenec;win;IMAT - Smolyakov vs. Grebenec;Dec / 12 / 2015;Submission (Kimura);Andrey Davidov;1;0:27
+Dmitry Smoliakov;Lukas Batovsky;win;Baltic Fights - Baltic Challenge 8;Dec / 05 / 2015;TKO (Punches);Danil Bakhtiyarov;1;0:18
+Dmitry Smoliakov;Flavio Pecoraro;win;IMAT - Smolyakov vs. Pecoraro;Dec / 27 / 2014;TKO (Punches);Andrey Davidov;1;2:53
+Dmitry Smoliakov;Robert Boryan;win;ProFC 55 - Kraniotakes vs. Kudin;Oct / 19 / 2014;Submission (Brabo Choke);N/A;1;1:33
+Dmitry Smoliakov;Arsen Mensitov;win;ProFC 54 - Challenge of Champions;Sep / 07 / 2014;Submission (Triangle Choke);N/A;1;0:40
+Dmitry Smoliakov;Viktor Smirnov;win;RFP - West Fight 5;Jul / 27 / 2013;TKO (Punches);Oleg Saievych;1;3:37
+Dmitry Smoliakov;Alexey Stepanov;win;GFC 3 - Gladiators Fighting Championship;Jul / 12 / 2013;TKO (Punches);Daniil Bukhtiyarov;1;0:56
+Dmitry Smoliakov;Pierre Louis Digonal;win;ProFC 46 - Grand Prix Final;Feb / 03 / 2013;Submission (Guillotine Choke);Andrei Kovalev;1;3:07
+Sergey Spivak;Marcin Tybura;loss;UFC Fight Night 169 - Benavidez vs. Figueiredo;Feb / 29 / 2020;Decision (Unanimous);Bill Bookwalter;3;5:00
+Sergey Spivak;Tai Tuivasa;win;UFC 243 - Whittaker vs. Adesanya;Oct / 05 / 2019;Technical Submission (Arm-Triangle Choke);Steve Perceval;2;3:14
+Sergey Spivak;Walt Harris;loss;UFC Fight Night 151 - Iaquinta vs. Cowboy;May / 04 / 2019;TKO (Punches);Jerin Valel;1;0:50
+Sergey Spivak;Tony Lopez;win;WWFC 12 - World Warriors Fighting Championship 12;Sep / 29 / 2018;Submission (Neck Crank);Volodymyr Shemarov;1;4:12
+Sergey Spivak;Ivo Cuk;win;WWFC 10 - World Warriors Fighting Championship 10;Mar / 24 / 2018;TKO (Punches);Vladimir Shemarov;1;2:21
+Sergey Spivak;Travis Fulton;win;WWFC - Cage Encounter 7;Jun / 14 / 2017;Submission (Rear-Naked Choke);Vladimir Shemarov;1;2:50
+Sergey Spivak;Luke Morton;win;WWFC - Cage Encounter 6;Mar / 29 / 2017;KO (Punches);Vladimir Shemarov;1;0:40
+Sergey Spivak;Artem Cherkov;win;Eagles FC - Eagles Fighting Championship;Feb / 27 / 2016;KO (Head Kick);Denis Pokatilov;1;1:52
+Sergey Spivak;Dimitriy Mikutsa;win;N1 Pro - MMA Nomad;Oct / 04 / 2015;Submission (Armbar);Ivan Tytyk;2;4:34
+Sergey Spivak;Yuri Gorbenko;win;WWFC - Ukraine Selection 4;Jan / 31 / 2015;Submission (Armbar);Vitaliy Vovk;1;3:38
+Sergey Spivak;Evgeniy Bova;win;WWFC - Ukraine Selection 1;Nov / 19 / 2014;Submission (Kimura);N/A;1;0:00
+Sergey Spivak;Andrey Serebrianikov;win;RFP - Galychyny Cup;Sep / 28 / 2014;TKO (Punches);Sergey Sokha;1;4:31
+J.J. Aldrich;Sabina Mazo;loss;UFC 246 - McGregor vs. Cerrone;Jan / 18 / 2020;Decision (Split);Chris Tognoni;3;5:00
+J.J. Aldrich;Lauren Mueller;win;UFC Fight Night 161 - Jedrzejczyk vs. Waterson;Oct / 12 / 2019;Decision (Unanimous);Kevin MacDonald;3;5:00
+J.J. Aldrich;Maycee Barber;loss;UFC Fight Night 148 - Thompson vs. Pettis;Mar / 23 / 2019;TKO (Knees and Punches);Keith Peterson;2;3:01
+J.J. Aldrich;Polyana Viana;win;UFC 227 - Dillashaw vs. Garbrandt 2;Aug / 04 / 2018;Decision (Unanimous);Herb Dean;3;5:00
+J.J. Aldrich;Danielle Taylor;win;UFC Fight Night 124 - Stephens vs. Choi;Jan / 14 / 2018;Decision (Unanimous);Keith Peterson;3;5:00
+J.J. Aldrich;Chanmi Jeon;win;UFC Fight Night 110 - Hunt vs. Lewis;Jun / 10 / 2017;Decision (Unanimous);Neil Swailes;3;5:00
+J.J. Aldrich;Juliana Lima;loss;UFC Fight Night 102 - Lewis vs. Abdurakhimov;Dec / 09 / 2016;Decision (Unanimous);Keith Peterson;3;5:00
+J.J. Aldrich;Lynn Alvarez;win;Invicta FC 20 - Evinger vs. Kunitskaya;Nov / 18 / 2016;Decision (Unanimous);Greg Franklin;3;5:00
+J.J. Aldrich;Kathina Lowe;win;FCF - Freestyle Cage Fighting 53;Sep / 17 / 2016;TKO (Punches);Kevin Nix;1;3:01
+J.J. Aldrich;Rosa Acevedo;win;Invicta FC 14 - Evinger vs. Kianzad;Sep / 12 / 2015;KO (Knees);Mike England;1;2:24
+J.J. Aldrich;Jamie Moyle;loss;Invicta FC 11 - Cyborg vs. Tweet;Feb / 27 / 2015;Technical Submission (Rear-Naked Choke);Herb Dean;1;2:20
+J.J. Aldrich;Delaney Owen;win;Invicta FC 8 - Waterson vs. Tamada;Sep / 06 / 2014;Decision (Unanimous);Mike England;3;5:00
+Jessica-Rose Clark;Pannie Kianzad;loss;UFC Fight Night 163 - Magomedsharipov vs. Kattar;Nov / 09 / 2019;Decision (Unanimous);Rich Mitchell;3;5:00
+Jessica-Rose Clark;Jessica Eye;loss;UFC Fight Night 132 - Cerrone vs. Edwards;Jun / 23 / 2018;Decision (Unanimous);Steve Perceval;3;5:00
+Jessica-Rose Clark;Paige VanZant;win;UFC Fight Night 124 - Stephens vs. Choi;Jan / 14 / 2018;Decision (Unanimous);Mario Yamasaki;3;5:00
+Jessica-Rose Clark;Bec Rawlings;win;UFC Fight Night 121 - Werdum vs. Tybura;Nov / 18 / 2017;Decision (Split);John Sharp;3;5:00
+Jessica-Rose Clark;Carina Damm;win;Titan FC 45 - Araujo vs. Capitulino;Aug / 18 / 2017;Decision (Split);Russ Greenberg;3;5:00
+Jessica-Rose Clark;Sarah Kaufman;loss;Battlefield FC 1 - The Great Beginning;Mar / 18 / 2017;Decision (Unanimous);N/A;3;5:00
+Jessica-Rose Clark;Pam Sorenson;loss;Invicta FC 20 - Evinger vs. Kunitskaya;Nov / 18 / 2016;Decision (Split);Mike England;3;5:00
+Jessica-Rose Clark;Janay Harding;win;EMMA - Eternal MMA 19;Jul / 30 / 2016;Decision (Unanimous);N/A;3;5:00
+Jessica-Rose Clark;Emiko Raika;NC;Tribe Tokyo Fight - TTF Challenge 05;Sep / 23 / 2015;No Contest (Clark Missed Weight);N/A;3;N/A
+Jessica-Rose Clark;Pannie Kianzad;loss;Invicta FC 13 - Cyborg vs. Van Duin;Jul / 09 / 2015;Decision (Unanimous);Steve Mazzagatti;3;5:00
+Jessica-Rose Clark;Rhiannon Thompson;win;Roshambo MMA 3 - In the Cage;Jul / 26 / 2014;Decision (Unanimous);N/A;5;5:00
+Jessica-Rose Clark;Kate Da Silva;win;XFC 21 - Xtreme Fighting Championship 21;Jun / 14 / 2014;TKO (Punches);Cade Brown;2;4:07
+Jessica-Rose Clark;Zoie Shreiweis;win;UCU 2 - Unarmed Combat Unleashed 2;Feb / 08 / 2014;Submission (Rear-Naked Choke);Peter Hickmott;1;3:33
+Jessica-Rose Clark;Kyra Purcell;loss;FWC 16 - FightWorld Cup 16;Nov / 16 / 2013;Decision (Unanimous);Peter Hickmott;3;5:00
+Jessica-Rose Clark;Arlene Blencowe;win;Nitro MMA - Nitro 9;Jul / 13 / 2013;Submission (Rear-Naked Choke);N/A;2;3:38
+Jessica-Rose Clark;Mae-Lin Leow;win;BFW 18 - Canberra;Dec / 21 / 2012;TKO (Punches);N/A;3;2:17
+Ashlee Evans-Smith;Andrea Lee;loss;UFC on ESPN 1 - Ngannou vs. Velasquez;Feb / 17 / 2019;Decision (Unanimous);Al Guinee;3;5:00
+Ashlee Evans-Smith;Bec Rawlings;win;UFC 223 - Khabib vs. Iaquinta;Apr / 07 / 2018;Decision (Unanimous);Rob Hinds;3;5:00
+Ashlee Evans-Smith;Sarah Moras;loss;UFC 215 - Nunes vs. Shevchenko 2;Sep / 09 / 2017;Submission (Armbar);Yves Lavigne;1;2:51
+Ashlee Evans-Smith;Ketlen Vieira;loss;UFC on Fox 24 - Johnson vs. Reis;Apr / 15 / 2017;Decision (Unanimous);Keith Peterson;3;5:00
+Ashlee Evans-Smith;Veronica Macedo;win;UFC Fight Night 93 - Arlovski vs. Barnett;Sep / 03 / 2016;TKO (Elbows);Neil Hall;3;2:46
+Ashlee Evans-Smith;Marion Reneau;win;UFC Fight Night 83 - Cerrone vs. Oliveira;Feb / 21 / 2016;Decision (Split);James Chappell;3;5:00
+Ashlee Evans-Smith;Raquel Pennington;loss;UFC 181 - Hendricks vs. Lawler 2;Dec / 06 / 2014;Technical Submission (Bulldog Choke);Mark Smith;1;4:59
+Ashlee Evans-Smith;Marciea Allen;win;WSOF 10 - Branch vs. Taylor;Jun / 21 / 2014;TKO (Elbows);Mark Smith;3;3:01
+Ashlee Evans-Smith;Fallon Fox;win;CFA 12 - Sampo vs. Thao;Oct / 12 / 2013;TKO (Punches);James Warring;3;3:15
+Ashlee Evans-Smith;Tori Adams;win;CFA 10 - McSweeney vs. Staring;Mar / 02 / 2013;Decision (Unanimous);Jorge Alonso;3;5:00
+Jessica Eye;Viviane Araujo;win;UFC 245 - Usman vs. Covington;Dec / 14 / 2019;Decision (Unanimous);Marc Goddard;3;5:00
+Jessica Eye;Valentina Shevchenko;loss;UFC 238 - Cejudo vs. Moraes;Jun / 08 / 2019;KO (Head Kick);Rob Madrigal;2;0:26
+Jessica Eye;Katlyn Chookagian;win;UFC 231 - Holloway vs. Ortega;Dec / 08 / 2018;Decision (Split);Todd Anderson;3;5:00
+Jessica Eye;Jessica-Rose Clark;win;UFC Fight Night 132 - Cerrone vs. Edwards;Jun / 23 / 2018;Decision (Unanimous);Steve Perceval;3;5:00
+Jessica Eye;Kalindra Faria;win;UFC Fight Night 124 - Stephens vs. Choi;Jan / 14 / 2018;Decision (Split);Dan Miragliotta;3;5:00
+Jessica Eye;Bethe Correia;loss;UFC 203 - Miocic vs. Overeem;Sep / 10 / 2016;Decision (Split);Marc Goddard;3;5:00
+Jessica Eye;Sara McMann;loss;UFC Fight Night 88 - Almeida vs. Garbrandt;May / 29 / 2016;Decision (Unanimous);John McCarthy;3;5:00
+Jessica Eye;Julianna Pena;loss;UFC 192 - Cormier vs. Gustafsson;Oct / 03 / 2015;Decision (Unanimous);Frank Collazo;3;5:00
+Jessica Eye;Miesha Tate;loss;UFC on Fox 16 - Dillashaw vs. Barao 2;Jul / 25 / 2015;Decision (Unanimous);Yves Lavigne;3;5:00
+Jessica Eye;Leslie Smith;win;UFC 180 - Werdum vs. Hunt;Nov / 15 / 2014;TKO (Doctor Stoppage);Herb Dean;2;1:30
+Jessica Eye;Alexis Davis;loss;UFC 170 - Rousey vs. McMann;Feb / 22 / 2014;Decision (Split);Yves Lavigne;3;5:00
+Jessica Eye;Sarah Kaufman;NC;UFC 166 - Velasquez vs. Dos Santos 3;Oct / 19 / 2013;No Contest (Overturned by TDLR);Jacob Montalvo;3;5:00
+Jessica Eye;Carina Damm;win;NAAFS - Fight Night in the Flats 9;Jun / 01 / 2013;Decision (Unanimous);Jerry Poe;3;5:00
+Jessica Eye;Zoila Frausto;win;BFC - Bellator Fighting Championships 83;Dec / 07 / 2012;Technical Submission (Arm-Triangle Choke);Bill Bookwalter;1;0:58
+Jessica Eye;Angela Magana;win;NAAFS - Rock N Rumble 6;Aug / 17 / 2012;Decision (Unanimous);Jerry Krzys;3;5:00
+Jessica Eye;Anita Rodriguez;win;BFC - Bellator Fighting Championships 66;Apr / 20 / 2012;Decision (Unanimous);Jerry Poe;3;5:00
+Jessica Eye;Kelly Warren;win;NAAFS - Caged Vengeance 10;Feb / 18 / 2012;Decision (Unanimous);Chad Trukovich;3;5:00
+Jessica Eye;Jennifer Scott;win;NAAFS - Night of Champions 2011;Nov / 23 / 2011;Decision (Unanimous);N/A;3;5:00
+Jessica Eye;Casey Noland;win;BFC - Bellator Fighting Championships 51;Sep / 24 / 2011;Decision (Split);Jerry Krzys;3;5:00
+Jessica Eye;Aisling Daly;loss;NAAFS - Fight Night in the Flats 7;Jun / 04 / 2011;Submission (Rear-Naked Choke);Mark Matheny;2;4:00
+Jessica Eye;Ashley Nee;win;ROC 34 - Ring of Combat 34;Feb / 04 / 2011;TKO (Punches);Keith Peterson;1;4:34
+Jessica Eye;Marissa Caldwell;win;NAAFS - Eve of Destruction 1;Sep / 18 / 2010;Decision (Unanimous);Jerry Krzys;3;5:00
+Jessica Eye;Amanda LaVoy;win;NAAFS - Fight Night in the Flats 6;Jun / 05 / 2010;TKO (Elbows);N/A;2;3:18
+Zarah Fairn dos Santos;Felicia Spencer;loss;UFC Fight Night 169 - Benavidez vs. Figueiredo;Feb / 29 / 2020;TKO (Elbows and Punches);Dan Miragliotta;1;3:37
+Zarah Fairn dos Santos;Megan Anderson;loss;UFC 243 - Whittaker vs. Adesanya;Oct / 05 / 2019;Submission (Triangle Choke);John Sharp;1;3:57
+Zarah Fairn dos Santos;Izabela Badurek;win;LFN 7 - Double Trouble 1;Dec / 15 / 2017;TKO (Punches);Piotr Michalak;1;1:55
+Zarah Fairn dos Santos;Suvi Salmimies;win;Cage - Cage 40;Sep / 09 / 2017;Decision (Unanimous);Mikko Aaltonen;3;5:00
+Zarah Fairn dos Santos;Kerry Hughes;win;BCMMA - British Challenge MMA 18;Feb / 18 / 2017;TKO (Punches);N/A;1;2:53
+Zarah Fairn dos Santos;Sinead Kavanagh;loss;BAMMA 24 - Kone vs. Phillips;Feb / 27 / 2016;Decision (Split);N/A;3;5:00
+Zarah Fairn dos Santos;Liubov Belyakova;win;W.I.N. FC - W.I.N. Fighting Championship;Jul / 18 / 2015;TKO (Punches);Peter Zhao;1;N/A
+Zarah Fairn dos Santos;Marion Nicolai;win;GFA - Gladiator Fighting Arena 2;Mar / 07 / 2015;Decision (Unanimous);Emilian Hagiu;2;5:00
+Zarah Fairn dos Santos;Elina Nilsson;loss;The Zone FC 12 - Kamikaze;Oct / 12 / 2013;Decision (Unanimous);Kristian Hacklou;3;5:00
+Zarah Fairn dos Santos;Helin Paara;win;MMA Raju - MMA Raju 11;Apr / 20 / 2013;TKO (Corner Stoppage);Risto Merisalu;1;4:00
+Claudia Gadelha;Angela Hill;win;UFC on ESPN 8 - Overeem vs. Harris;May / 16 / 2020;Decision (Split);Keith Peterson;3;5:00
+Claudia Gadelha;Randa Markos;win;UFC 239 - Jones vs. Santos;Jul / 06 / 2019;Decision (Unanimous);Jason Herzog;3;5:00
+Claudia Gadelha;Nina Ansaroff;loss;UFC 231 - Holloway vs. Ortega;Dec / 08 / 2018;Decision (Unanimous);Jerin Valel;3;5:00
+Claudia Gadelha;Carla Esparza;win;UFC 225 - Whittaker vs. Romero 2;Jun / 09 / 2018;Decision (Split);Rob Madrigal;3;5:00
+Claudia Gadelha;Jessica Andrade;loss;UFC Fight Night 117 - St. Preux vs. Okami;Sep / 22 / 2017;Decision (Unanimous);John Sharp;3;5:00
+Claudia Gadelha;Karolina Kowalkiewicz;win;UFC 212 - Aldo vs. Holloway;Jun / 03 / 2017;Submission (Rear-Naked Choke);Mario Yamasaki;1;3:03
+Claudia Gadelha;Cortney Casey;win;UFC Fight Night 100 - Bader vs. Nogueira 2;Nov / 19 / 2016;Decision (Unanimous);Fernando Portella;3;5:00
+Claudia Gadelha;Joanna Jedrzejczyk;loss;UFC  - The Ultimate Fighter 23 Finale;Jul / 08 / 2016;Decision (Unanimous);John McCarthy;5;5:00
+Claudia Gadelha;Jessica Aguilar;win;UFC 190 - Rousey vs. Correia;Aug / 01 / 2015;Decision (Unanimous);Mario Yamasaki;3;5:00
+Claudia Gadelha;Joanna Jedrzejczyk;loss;UFC on Fox 13 - Dos Santos vs. Miocic;Dec / 13 / 2014;Decision (Split);Al Guinee;3;5:00
+Claudia Gadelha;Tina Lahdemaki;win;UFC Fight Night 45 - Cerrone vs. Miller;Jul / 16 / 2014;Decision (Unanimous);Liam Kerrigan;3;5:00
+Claudia Gadelha;Ayaka Hamasaki;win;Invicta FC 6 - Cyborg vs. Coenen 2;Jul / 13 / 2013;TKO (Punches);Greg Franklin;3;3:58
+Claudia Gadelha;Herica Tiburcio;win;Max Sport - 13.2;May / 11 / 2013;Decision (Unanimous);Marcelo Marco Antonio;3;5:00
+Claudia Gadelha;Adriana Vieira;win;Shooto Brazil - Shooto Brazil 34;Sep / 21 / 2012;TKO (Punches);N/A;1;1:35
+Claudia Gadelha;Valerie Letourneau;win;Wreck MMA - Road to Glory;Apr / 20 / 2012;Decision (Split);Phillippe Chartier;3;5:00
+Claudia Gadelha;Kalindra Faria;win;HFC - Hard Fight Championship;Sep / 25 / 2010;Submission (Armbar);N/A;1;1:10
+Claudia Gadelha;Alessandra Silva;win;EFC - Expo Fighting Championship: Day Two;Aug / 22 / 2010;Submission (Armbar);N/A;1;N/A
+Claudia Gadelha;Areane Monteiro;win;IFC - Itu Fight Championship;Jun / 04 / 2010;Submission (Rear-Naked Choke);Miguel Repanas;1;2:08
+Claudia Gadelha;Davina Maciel;win;VF 1 - Vision Fight;Dec / 20 / 2009;Submission (Armbar);N/A;1;1:26
+Claudia Gadelha;Aline Nery;win;Shooto Brazil - Shooto Brazil 14;Nov / 28 / 2009;Decision (Unanimous);N/A;3;5:00
+Claudia Gadelha;Juliana de Sousa;win;WOCS - Watch Out Combat Show 4;Jun / 25 / 2009;Submission (Armbar);Luis K. Belinho;1;1:29
+Claudia Gadelha;Elaine Leite;win;Force FC - Force Fighting Championship 1;Jul / 05 / 2008;Submission (Armbar);N/A;1;0:17
+Melissa Gatto;Karol Rosa;win;NC - Nacao Cyborg 3;Sep / 29 / 2018;Submission (Kimura);Roberto Piccinini;1;4:19
+Melissa Gatto;Sidy Rocha;draw;PFC 2 - Pantanal Fight Champions 2;Jul / 07 / 2018;Draw (Split);Paulo Ubiratan Brito;3;5:00
+Melissa Gatto;Joice de Andrade;win;CF - Clev Fight 1;May / 05 / 2018;Submission (Armbar);N/A;1;2:34
+Melissa Gatto;Kethylen Rothenburg;win;NC - Nacao Cyborg 1;Apr / 07 / 2018;Submission (Armbar);N/A;1;1:36
+Melissa Gatto;Edna Oliveira Ajala;draw;Bonito Eco Fight Combat 2 - Negao vs. Slim;Sep / 23 / 2017;Draw (Majority);Agnaldo Pereira dos Santos;3;5:00
+Melissa Gatto;Rafaela Thomazini;win;Spartacus Academy - Spartacus Circuit 9;Sep / 09 / 2017;Submission (Rear-Naked Choke);Alessandro Ramos Yoneda;1;1:09
+Melissa Gatto;Taynara Silva;win;PFC - Pantanal Fight Champions;Aug / 12 / 2017;Decision (Unanimous);Luis Frederico Pinto;3;5:00
+Melissa Gatto;Alexandra Alves;win;Spartacus Academy - Spartacus Circuit 8;Dec / 10 / 2016;Decision (Unanimous);Alessandro Yoneda;3;5:00
+Hannah Goldy;Miranda Granger;loss;UFC on ESPN 5 - Covington vs. Lawler;Aug / 03 / 2019;Decision (Unanimous);Herb Dean;3;5:00
+Hannah Goldy;Kali Robbins;win;Dana White's Contender Series - Season 3, Episode 1;Jun / 18 / 2019;Decision (Unanimous);Mark Smith;3;5:00
+Hannah Goldy;Shannon Goughary;win;Square Ring Promotions - Island Fights 50;Sep / 29 / 2018;Decision (Unanimous);Larry Downs;3;5:00
+Hannah Goldy;Lisa Blaine;win;PFC - Premier FC 26;Jun / 16 / 2018;Decision (Unanimous);N/A;3;5:00
+Hannah Goldy;Vanessa Grimes;win;Square Ring Promotions - Island Fights 46: The Return of Roy Jones Jr.;Feb / 08 / 2018;TKO (Punches);Larry Downs Jr.;2;2:39
+Hannah Goldy;Gillian Robertson;win;Square Ring Promotions - Island Fights 37;Mar / 11 / 2016;Decision (Unanimous);Larry Folson;3;5:00
+Miranda Granger;Amanda Lemos;loss;UFC Fight Night 165 - Edgar vs. Korean Zombie;Dec / 21 / 2019;Technical Submission (Rear-Naked Choke);Greg Kleynjans;1;3:43
+Miranda Granger;Hannah Goldy;win;UFC on ESPN 5 - Covington vs. Lawler;Aug / 03 / 2019;Decision (Unanimous);Herb Dean;3;5:00
+Miranda Granger;Heloisa Azevedo;win;CFFC 75 - Cage Fury Fighting Championships 75;May / 25 / 2019;Submission (Guillotine Choke);N/A;1;0:41
+Miranda Granger;Jamie Colleen;win;CFFC 71 - Cage Fury Fighting Championships 71;Dec / 14 / 2018;Submission (Armbar);Gasper Oliver;1;2:11
+Miranda Granger;Amy Montenegro;win;Dominate FC 2 - Dominate Fighting Championship 2;Sep / 15 / 2018;Submission (Guillotine);N/A;1;2:45
+Miranda Granger;Jamie Thorton;win;COGA 61 - Rumble on the Ridge 41;Apr / 21 / 2018;TKO;John Stanton;2;2:51
+Miranda Granger;Ivana Coleman;win;COGA 60 - Supreme Showdown 3;Feb / 17 / 2018;Submission (Rear-Naked Choke);John Stanton;1;4:29
+Miranda Granger;Nikki Lowe;win;COGA 58 - Summer Showdown 4;Aug / 25 / 2017;Submission (Armbar);Jeremy Saunders;1;2:30
+Alexa Grasso;Carla Esparza;loss;UFC Fight Night 159 - Rodriguez vs. Stephens;Sep / 21 / 2019;Decision (Majority);Jason Herzog;3;5:00
+Alexa Grasso;Karolina Kowalkiewicz;win;UFC 238 - Cejudo vs. Moraes;Jun / 08 / 2019;Decision (Unanimous);Kevin MacDonald;3;5:00
+Alexa Grasso;Tatiana Suarez;loss;UFC Fight Night 129 - Maia vs. Usman;May / 19 / 2018;Submission (Rear-Naked Choke);Camila Albuquerque;1;2:44
+Alexa Grasso;Randa Markos;win;UFC Fight Night 114 - Pettis vs. Moreno;Aug / 05 / 2017;Decision (Split);Jerin Valel;3;5:00
+Alexa Grasso;Felice Herrig;loss;UFC Fight Night 104 - Bermudez vs. Korean Zombie;Feb / 04 / 2017;Decision (Unanimous);Jacob Montalvo;3;5:00
+Alexa Grasso;Heather Clark;win;UFC Fight Night 98 - Dos Anjos vs. Ferguson;Nov / 05 / 2016;Decision (Unanimous);Keith Peterson;3;5:00
+Alexa Grasso;Jodie Esquibel;win;Invicta FC 18 - Grasso vs. Esquibel;Jul / 29 / 2016;Decision (Unanimous);Mike England;3;5:00
+Alexa Grasso;Mizuki Inoue;win;Invicta FC 11 - Cyborg vs. Tweet;Feb / 27 / 2015;Decision (Unanimous);Mike Beltran;3;5:00
+Alexa Grasso;Alida Gray;win;Invicta FC 10 - Waterson vs. Tiburcio;Dec / 05 / 2014;TKO (Punches);Joe Soliz;1;1:47
+Alexa Grasso;Ashley Cummins;win;Invicta FC 8 - Waterson vs. Tamada;Sep / 06 / 2014;Decision (Unanimous);Mike England;3;5:00
+Alexa Grasso;Karina Rodriguez;win;XK 20 - Xtreme Kombat 20;Aug / 31 / 2013;Decision (Unanimous);N/A;3;3:00
+Alexa Grasso;Alejandra Alvarez;win;XK 20 - Xtreme Kombat 20;Aug / 31 / 2013;TKO (Punches and Knees);N/A;1;0:36
+Alexa Grasso;Lupita Hernandez;win;FHC - Fight Hard Championship 3;May / 11 / 2013;KO (Punches);N/A;1;0:12
+Alexa Grasso;Sandra del Rincon;win;GEX - Old Jack's Fight Night;Dec / 19 / 2012;KO (Punch);N/A;1;0:15
+Felice Herrig;Michelle Waterson;loss;UFC 229 - Nurmagomedov vs. McGregor;Oct / 06 / 2018;Decision (Unanimous);Jason Herzog;3;5:00
+Felice Herrig;Karolina Kowalkiewicz;loss;UFC 223 - Khabib vs. Iaquinta;Apr / 07 / 2018;Decision (Split);Keith Peterson;3;5:00
+Felice Herrig;Cortney Casey;win;UFC 218 - Holloway vs. Aldo 2;Dec / 02 / 2017;Decision (Split);Bobby Wombacher;3;5:00
+Felice Herrig;Justine Kish;win;UFC Fight Night 112 - Chiesa vs. Lee;Jun / 25 / 2017;Decision (Unanimous);Keith Peterson;3;5:00
+Felice Herrig;Alexa Grasso;win;UFC Fight Night 104 - Bermudez vs. Korean Zombie;Feb / 04 / 2017;Decision (Unanimous);Jacob Montalvo;3;5:00
+Felice Herrig;Kailin Curran;win;UFC on Fox 20 - Holm vs. Shevchenko;Jul / 23 / 2016;Submission (Rear-Naked Choke);John McCarthy;1;1:59
+Felice Herrig;Paige VanZant;loss;UFC on Fox 15 - Machida vs. Rockhold;Apr / 18 / 2015;Decision (Unanimous);Vitor Ribeiro;3;5:00
+Felice Herrig;Lisa Ellis;win;UFC - The Ultimate Fighter 20 Finale;Dec / 12 / 2014;Submission (Armbar);John McCarthy;2;3:05
+Felice Herrig;Tecia Torres;loss;Invicta FC 7 - Honchak vs. Smith;Dec / 07 / 2013;Decision (Unanimous);Mike England;3;5:00
+Felice Herrig;Heather Clark;win;Bellator MMA - Bellator 94;Mar / 28 / 2013;Decision (Split);Jorge Ortiz;3;5:00
+Felice Herrig;Patricia Vidonic;win;BFC - Bellator Fighting Championships 84;Dec / 14 / 2012;Decision (Unanimous);Gary Copeland;3;5:00
+Felice Herrig;Simona Soukupova;win;XFC 19 - Charlotte Showdown;Aug / 03 / 2012;Decision (Unanimous);Joseph Hawes;3;5:00
+Felice Herrig;Patricia Vidonic;win;XFC 17 - Apocalypse;Apr / 13 / 2012;Decision (Unanimous);Gary Copeland;3;5:00
+Felice Herrig;Carla Esparza;loss;XFC 15 - Tribute;Dec / 02 / 2011;Decision (Unanimous);Chris Adams;3;5:00
+Felice Herrig;Nicdali Rivera-Calanoc;win;XFO - Xtreme Fighting Organization 39;May / 13 / 2011;Decision (Unanimous);Otto Torriero;3;5:00
+Felice Herrig;Andrea Miller;win;CCC - Chicago Cagefighting Championship;Mar / 05 / 2011;TKO (Punches);Andrew Krzeptowski;1;3:30
+Felice Herrig;Barb Honchak;loss;Hoosier FC 6 - New Years Nemesis;Jan / 14 / 2011;Decision (Unanimous);Jeff Malott;3;5:00
+Felice Herrig;Amanda LaVoy;win;XFO - Xtreme Fighting Organization 37;Dec / 04 / 2010;Submission (Armbar);Otto Torriero;1;3:35
+Felice Herrig;Jessica Rakoczy;win;BFC - Bellator Fighting Championships 14;Apr / 15 / 2010;Decision (Split);David Smith;3;5:00
+Felice Herrig;Michele Gutierrez;win;Unconquered 1 - November Reign;Nov / 20 / 2009;Submission (Armbar);Jorge Alonso;2;2:03
+Felice Herrig;Valerie Coolbaugh;loss;XFO - Xtreme Fighting Organization 29;Apr / 17 / 2009;Decision (Split);Andrew Krzeptowski;3;5:00
+Felice Herrig;Iman Achhal;loss;UWC 5 - Man O' War;Feb / 21 / 2009;Decision (Split);Mike King;3;5:00
+Angela Hill;Claudia Gadelha;loss;UFC on ESPN 8 - Overeem vs. Harris;May / 16 / 2020;Decision (Split);Keith Peterson;3;5:00
+Angela Hill;Konklak Suphisara;win;UFC Fight Night 168 - Felder vs. Hooker;Feb / 23 / 2020;Decision (Unanimous);John Sharp;3;5:00
+Angela Hill;Hannah Cifers;win;UFC Fight Night 166 - Blaydes vs. dos Santos;Jan / 25 / 2020;TKO (Elbows and Punches);Kevin MacDonald;2;4:26
+Angela Hill;Ariane Carnelossi;win;UFC Fight Night 159 - Rodriguez vs. Stephens;Sep / 21 / 2019;TKO (Doctor Stoppage);Fernando Salas Navarro;3;1:56
+Angela Hill;Xiaonan Yan;loss;UFC 238 - Cejudo vs. Moraes;Jun / 08 / 2019;Decision (Unanimous);Rob Madrigal;3;5:00
+Angela Hill;Jodie Esquibel;win;UFC Fight Night 150 - Jacare vs. Hermansson;Apr / 27 / 2019;Decision (Unanimous);Alan Abeles;3;5:00
+Angela Hill;Randa Markos;loss;UFC Fight Night 148 - Thompson vs. Pettis;Mar / 23 / 2019;Submission (Armbar);Keith Peterson;1;4:24
+Angela Hill;Cortney Casey;loss;UFC Fight Night 135 - Gaethje vs. Vick;Aug / 25 / 2018;Decision (Split);Bryan Miner;3;5:00
+Angela Hill;Maryna Moroz;win;UFC on Fox 28 - Emmett vs. Stephens;Feb / 24 / 2018;Decision (Unanimous);Jorge Alonso;3;5:00
+Angela Hill;Nina Ansaroff;loss;UFC Fight Night 120 - Poirier vs. Pettis;Nov / 11 / 2017;Decision (Unanimous);Keith Peterson;3;5:00
+Angela Hill;Ashley Yoder;win;UFC - The Ultimate Fighter 25 Finale;Jul / 07 / 2017;Decision (Unanimous);Jason Herzog;3;5:00
+Angela Hill;Jessica Andrade;loss;UFC Fight Night 104 - Bermudez vs. Korean Zombie;Feb / 04 / 2017;Decision (Unanimous);Jacob Montalvo;3;5:00
+Angela Hill;Kaline Medeiros;win;Invicta FC 20 - Evinger vs. Kunitskaya;Nov / 18 / 2016;Decision (Unanimous);Greg Franklin;5;5:00
+Angela Hill;Livinha Souza;win;Invicta FC 17 - Evinger vs. Schneider;May / 07 / 2016;Decision (Split);Mike Beltran;5;5:00
+Angela Hill;Stephanie Eggink;win;Invicta FC 16 - Hamasaki vs. Brown;Mar / 11 / 2016;KO (Punch);Kim Winslow;2;2:36
+Angela Hill;Alida Gray;win;Invicta FC 15 - Cyborg vs. Ibragimova;Jan / 16 / 2016;KO (Knee to the Body);John McCarthy;1;1:39
+Angela Hill;Rose Namajunas;loss;UFC 192 - Cormier vs. Gustafsson;Oct / 03 / 2015;Submission (Rear-Naked Choke);Joe Solis;1;2:47
+Angela Hill;Tecia Torres;loss;UFC 188 - Velasquez vs. Werdum;Jun / 13 / 2015;Decision (Unanimous);John McCarthy;3;5:00
+Angela Hill;Emily Kagan;win;UFC - The Ultimate Fighter 20 Finale;Dec / 12 / 2014;Decision (Unanimous);Kim Winslow;3;5:00
+Angela Hill;Stephanie Skinner;win;USFFC 18 - Metal and Mayhem;Apr / 26 / 2014;TKO (Knees);Donnie Jessup;2;1:35
+Holly Holm;Raquel Pennington;win;UFC 246 - McGregor vs. Cerrone;Jan / 18 / 2020;Decision (Unanimous);Jason Herzog;3;5:00
+Holly Holm;Amanda Nunes;loss;UFC 239 - Jones vs. Santos;Jul / 06 / 2019;TKO (Head Kick and Punches);Marc Goddard;1;4:10
+Holly Holm;Megan Anderson;win;UFC 225 - Whittaker vs. Romero 2;Jun / 09 / 2018;Decision (Unanimous);Kevin MacDonald;3;5:00
+Holly Holm;Cristiane Justino;loss;UFC 219 - Cyborg vs. Holm;Dec / 30 / 2017;Decision (Unanimous);Herb Dean;5;5:00
+Holly Holm;Bethe Correia;win;UFC Fight Night 111 - Holm vs. Correia;Jun / 17 / 2017;KO (Head Kick and Punch);Marc Goddard;3;1:09
+Holly Holm;Germaine de Randamie;loss;UFC 208 - Holm vs. De Randamie;Feb / 11 / 2017;Decision (Unanimous);Todd Anderson;5;5:00
+Holly Holm;Valentina Shevchenko;loss;UFC on Fox 20 - Holm vs. Shevchenko;Jul / 23 / 2016;Decision (Unanimous);Rob Madrigal;5;5:00
+Holly Holm;Miesha Tate;loss;UFC 196 - McGregor vs. Diaz;Mar / 05 / 2016;Technical Submission (Rear-Naked Choke);John McCarthy;5;3:30
+Holly Holm;Ronda Rousey;win;UFC 193 - Rousey vs. Holm;Nov / 14 / 2015;KO (Head Kick and Punches);Herb Dean;2;0:59
+Holly Holm;Marion Reneau;win;UFC Fight Night 71 - Mir vs. Duffee;Jul / 15 / 2015;Decision (Unanimous);Jason Herzog;3;5:00
+Holly Holm;Raquel Pennington;win;UFC 184 - Rousey vs. Zingano;Feb / 28 / 2015;Decision (Split);Herb Dean;3;5:00
+Holly Holm;Juliana Werner;win;LFC 30 - Legacy Fighting Championship 30;Apr / 04 / 2014;TKO (Head Kick and Punches);Raul Porrata;5;1:50
+Holly Holm;Angela Hayes;win;Fresquez Productions - Havoc;Dec / 06 / 2013;Decision (Unanimous);Joe Coca;3;5:00
+Holly Holm;Nikki Knudsen;win;LFC 24 - Legacy Fighting Championship 24;Oct / 11 / 2013;TKO (Kick to the Body and Knees);Aladin Martinez;2;1:18
+Holly Holm;Allanna Jones;win;LFC 21 - Legacy Fighting Championship 21;Jul / 19 / 2013;KO (Head Kick);Joshua Ferrero;2;2:22
+Holly Holm;Katie Merrill;win;Bellator MMA - Bellator 91;Feb / 28 / 2013;TKO (Punches);Raul Porrata;2;3:02
+Holly Holm;Jan Finney;win;Fresquez Productions - Clash in the Cage;Sep / 09 / 2011;KO (Kick to the Body);N/A;3;2:49
+Holly Holm;Christina Domke;win;Fresquez Productions - Double Threat;Mar / 04 / 2011;TKO (Leg Kicks);N/A;2;3:58
+Mizuki Inoue;Yanan Wu;win;UFC Fight Night 157 - Andrade vs. Zhang;Aug / 31 / 2019;Decision (Split);Thomas Fann;3;5:00
+Mizuki Inoue;Viviane Pereira;win;Invicta FC 32 - Spencer vs. Sorenson;Nov / 16 / 2018;Decision (Unanimous);Liz Carreiro;3;5:00
+Mizuki Inoue;Virna Jandiroba;loss;Invicta FC 28 - Mizuki vs. Jandiroba;Mar / 24 / 2018;Decision (Split);Dave Seljestad;5;5:00
+Mizuki Inoue;Lynn Alvarez;win;Invicta FC 18 - Grasso vs. Esquibel;Jul / 29 / 2016;Submission (Armbar);Mike England;2;3:00
+Mizuki Inoue;Nori Date;win;Deep - Jewels 11;Mar / 06 / 2016;Technical Submission (Armbar);Masato Fukuda;1;3:12
+Mizuki Inoue;Lacey Sears;win;Invicta FC 15 - Cyborg vs. Ibragimova;Jan / 16 / 2016;Submission (Armbar);Jason Herzog;3;3:41
+Mizuki Inoue;Emi Fujino;win;Deep - Jewels 9;Aug / 29 / 2015;Decision (Unanimous);Kenichi Serizawa;3;5:00
+Mizuki Inoue;Alexa Grasso;loss;Invicta FC 11 - Cyborg vs. Tweet;Feb / 27 / 2015;Decision (Unanimous);Mike Beltran;3;5:00
+Mizuki Inoue;Karolina Kowalkiewicz;loss;Invicta FC 9 - Honchak vs. Hashi;Nov / 01 / 2014;Decision (Split);Rob Hinds;3;5:00
+Mizuki Inoue;Emi Tomimatsu;win;Deep - Jewels 5;Aug / 09 / 2014;Submission (Armbar);Yoshinori Umeki;3;1:33
+Mizuki Inoue;Emi Tomimatsu;loss;Deep - Jewels 3;Feb / 16 / 2014;DQ (Inoue Missed Weight);Ryogaku Wada;3;3:57
+Mizuki Inoue;Emi Fujino;win;Deep - Jewels 2;Nov / 04 / 2013;Decision (Unanimous);Kenichi Serizawa;2;5:00
+Mizuki Inoue;Bec Rawlings;win;Invicta FC 6 - Cyborg vs. Coenen 2;Jul / 13 / 2013;Decision (Unanimous);Greg Franklin;3;5:00
+Mizuki Inoue;Seo Ye Jung;win;Jewels - 23rd Ring;Mar / 30 / 2013;Submission (Rear-Naked Choke);Ryogaku Wada;1;1:43
+Mizuki Inoue;Hyo Kyung Song;win;Jewels - 22nd Ring;Dec / 15 / 2012;Submission (Armbar);Ryogaku Wada;2;2:14
+Mizuki Inoue;Alex Chambers;win;Jewels - 18th Ring;Mar / 03 / 2012;Submission (Armbar);Kenichi Serizawa;1;4:32
+Mizuki Inoue;Ayaka Hamasaki;loss;Jewels - 16th Ring;Sep / 11 / 2011;Decision (Unanimous);Kenichi Serizawa;2;5:00
+Mizuki Inoue;Asako Saioka;win;Jewels - 11th Ring;Dec / 17 / 2010;Technical Submission (Armbar);Kenichi Serizawa;1;2:59
+Mizuki Inoue;Emi Murata;win;Jewels - 10th Ring;Oct / 10 / 2010;Submission (Armbar);Ryogaku Wada;2;2:58
